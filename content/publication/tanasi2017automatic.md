@@ -2,7 +2,7 @@
 abstract = "Provisional Patent filed with the United States Patent and Trademark Office on April 19, 2017, and assigned Serial No. 62\\487,178. Further details will be added in the future."
 abstract_short = ""
 authors = ""
-date = "2017-04-19"
+date = "2017-01-01"
 image_preview = ""
 math = true
 publication_types = ["7"]

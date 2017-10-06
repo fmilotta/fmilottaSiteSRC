@@ -13,7 +13,7 @@ title = "Virtual anastylosis of Greek sculpture as museum policy for public outr
 url_code = ""
 url_dataset = ""
 url_pdf = "http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1003&context=hty_facpub"
-url_project = ""
+url_project = "project/archeomatica/"
 url_slides = ""
 url_poster = ""
 url_video = ""

@@ -13,7 +13,7 @@ title = "RECfusion: Automatic Scene Clustering and Tracking in Videos from Multi
 url_code = ""
 url_dataset = "http://recfusionproject.altervista.org/clustertracking.htm"
 url_pdf = "http://www.ingentaconnect.com/contentone/ist/ei/2016/00002016/00000007/art00007?crawler=true"
-url_project = ""
+url_project = "project/recfusion/"
 url_slides = "slide/S-milotta2016recfusion.pdf"
 url_poster = ""
 url_video = ""

@@ -21,9 +21,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Computer Science"
+  course = "PhD Cand. in Computer Science"
   institution = "University of Catania"
   year = "since 2014"
+
+[[education.courses]]
+  course = "Visiting Scholar"
+  institution = "University of South Florida (USF)"
+  year = 2017
 
 [[education.courses]]
   course = "MSc in Computer Science"

@@ -30,12 +30,16 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Images"
+  tag = ".archeomatica, .tsp"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Video"
+  tag = ".archeomatica, .recfusion"
+
+[[filter]]
+  name = "3D Data"
+  tag = ".archeomatica"
 
 +++
 
