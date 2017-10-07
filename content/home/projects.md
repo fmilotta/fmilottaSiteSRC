@@ -39,7 +39,7 @@ filter_default = 0
 
 [[filter]]
   name = "3D Data"
-  tag = ".archeomatica"
+  tag = ".archeomatica, .medicalresearch"
 
 +++
 
