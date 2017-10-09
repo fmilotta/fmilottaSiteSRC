@@ -10,12 +10,12 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 65
+weight = 50
 
 +++
 
 - [Curriculum Vitae (Europass format) [English]](https://fmilotta.github.io/CV/CV-Europass-EN-100717.pdf) - Updated: 10 Oct 2017
 - [Curriculum Vitae (Europass format) [Italian]](https://fmilotta.github.io/CV/CV-Europass-IT-071017.pdf) - Updated: 10 Oct 2017
-- [Achademic Resume [English]](https://fmilotta.github.io/CV/Resume-EN-100717.pdf) - Updated: 10 Oct 2017
-- Research Statement: available under request
-- Teaching Philosophy: available under request
+- [Academic Resume [English]](https://fmilotta.github.io/CV/Resume-EN-100717.pdf) - Updated: 10 Oct 2017
+- **Research Statement**: *available under request*
+- **Teaching Philosophy**: *available under request*
