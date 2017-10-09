@@ -32,8 +32,8 @@ caption = "3D-Data Processing and Analysis applied to Medical Research."
 
 **Related Publications:** 
 
-- [*Breast Shape Parametrization Through Planar Projections*. In Proceedings of International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2016).](https://fmilotta.github.io/publication/gallo2016breast/)
-- [*Description of Breast Morphology through Bag of Normals Representation*. In Proceedings of 19th International Conference on Image Analysis and Processing (ICIAP 2017).](https://fmilotta.github.io/publication/allegra2017description/)
+- {{% staticref "publication/gallo2016breast/" %}}*Breast Shape Parametrization Through Planar Projections*. In Proceedings of International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2016).{{% /staticref %}}
+- {{% staticref "publication/allegra2017description/" %}}*Description of Breast Morphology through Bag of Normals Representation*. In Proceedings of 19th International Conference on Image Analysis and Processing (ICIAP 2017).{{% /staticref %}}
 
 In the last decade, 3D scanners have been employed in architecture, engineering, biology, cultural heritage as well as diagnostic medicine and reconstruction surgery. These devices allow doctors to get a detailed virtual model of a human body. The opportunity to acquire body parts shape, including soft tissues like the female human breast, has motivated our conjunct study with medical specialists in breast reconstruction.
 	
