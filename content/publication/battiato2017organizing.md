@@ -15,7 +15,7 @@ url_dataset = "http://iplab.dmi.unict.it/recfusionICIAP17/demo/demoVideos.zip"
 url_pdf = "pdf/battiato2017organizing.pdf"
 url_project = "project/recfusion/"
 url_slides = ""
-url_poster = "P-battiato2017organizing.pdf"
+url_poster = "poster/P-battiato2017organizing.pdf"
 url_video = ""
 url_bibtex = "bib/battiato2017organizing.bib"
 

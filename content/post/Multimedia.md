@@ -6,7 +6,7 @@ tags = ["UNICT", "Magistrale", "2017-18", "2016-17", "2014-15"]
 title = "Multimedia"
 math = true
 summary = """
-**A.Y. 2016\\17** - MSc Course in Computer Science - Department of Mathematics and Computer Science - University of Catania, Italy. 
+**A.Y. 2017\\18** - MSc Course in Computer Science - Department of Mathematics and Computer Science - University of Catania, Italy. 
 """
 
 [header]
@@ -74,7 +74,7 @@ Last updated on **13 October, 2017**. Teaching material is available in English,
 * {{% staticref "teaching/multimedia/Multimedia-Lec1-IT-2017.pdf" %}}Conversione Decimale Binario{{% /staticref %}}
 * {{% staticref "teaching/multimedia/Multimedia-Lec2-IT-2017.pdf" %}}Scansione 3D{{% /staticref %}}
 
-#### Books
+### Books
 
 Suggested Readings:
 
