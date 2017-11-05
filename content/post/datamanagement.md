@@ -41,6 +41,7 @@ I taught this course in the A.Y. 2017\\18.
 * Relational Algebra
   * ...
 * SQL
+  * Intra-relational constraints
   * Inter-relational constraints
 * ...
 
@@ -72,7 +73,8 @@ Suggested Readings:
   * Chapter 2 - The Relational Model
   * Chapter 3 - Relational Algebra
     * ...
-  * Chapter 4 - Introduction to SQL
+  * Chapter 4 - SQL
+    * 4.2.6 - Intra-relational constraints
     * 4.2.7 - Inter-relational constraints
   * ...
   * Exercises + Solutions are available online through this [LINK](http://www.ateneonline.it/atzeni3e/areastudenti.asp)
