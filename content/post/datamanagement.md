@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-11-05
+lastmod = 2017-11-14
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -39,6 +39,11 @@ I taught this course in the A.Y. 2017\\18.
   * NULL values
   * Integrity constraints
 * Relational Algebra
+  * Union, intersection, difference
+    * Renaming
+    * Selection
+    * Projection
+    * Join
   * ...
 * SQL
   * Intra-relational constraints
@@ -52,15 +57,17 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **5 November, 2017**. Teaching material is available in English, under request.
+Last updated on **14 November, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-1-2017-IT.pdf" %}}Autovalutazione 1 - Introduzione alle Basi di Dati{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-2-2017-IT.pdf" %}}Autovalutazione 2 - Introduzione al Modello Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-3-2017-IT.pdf" %}}Autovalutazione 3 - Vincoli di Integrità{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-4-2017-IT.pdf" %}}Autovalutazione 4 - Algebra Relazionale{{% /staticref %}}
 * Esempi
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
 * Esercizi
   * ... 
 
@@ -72,9 +79,16 @@ Suggested Readings:
   * Chapter 1 - Introduction
   * Chapter 2 - The Relational Model
   * Chapter 3 - Relational Algebra
-    * ...
+      * 3.1 Relational algebra
+          * 3.1.1 Union, intersection, difference
+          * 3.1.2 Renaming
+          * 3.1.3 Selection
+          * 3.1.4 Projection
+          * 3.1.5 Join
+          * 3.1.6 Queries in relational algebra
+      * ... 
   * Chapter 4 - SQL
-    * 4.2.6 - Intra-relational constraints
-    * 4.2.7 - Inter-relational constraints
+      * 4.2.6 - Intra-relational constraints
+      * 4.2.7 - Inter-relational constraints
   * ...
   * Exercises + Solutions are available online through this [LINK](http://www.ateneonline.it/atzeni3e/areastudenti.asp)
