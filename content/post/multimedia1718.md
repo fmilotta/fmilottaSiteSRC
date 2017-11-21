@@ -24,7 +24,7 @@ The course of **Multimedia** is part of the *MSc Course in Computer Science* of 
 Within this course, I taught the module **"Video media and Motion Estimation"** and several single-topic lectures in the A.Ys. 2017\\18.
 
 {{% alert note %}}
-Previous edition of this course are available in the following pages: A.Ys. [2016\\17](fmilotta.github.io/post/multimedia1617/), and [2015\\16](fmilotta.github.io/post/multimedia1617/).
+Previous editions of this course are available in the following pages: A.Ys. [2016\\17](fmilotta.github.io/post/multimedia1617/), and [2015\\16](fmilotta.github.io/post/multimedia1617/).
 {{% /alert %}}
 
 ## Syllabus
