@@ -1,12 +1,12 @@
 +++
-date = 2017-10-09
-lastmod = 2017-10-13
+date = 2016-01-30
+lastmod = 2016-01-30
 draft = false
-tags = ["UNICT", "Magistrale", "2017-18", "2016-17", "2014-15"]
+tags = ["UNICT", "Magistrale", "2016-17", "2014-15"]
 title = "Multimedia"
 math = true
 summary = """
-**A.Y. 2017\\18** - MSc Course in Computer Science - Department of Mathematics and Computer Science - University of Catania, Italy. 
+**A.Y. 2016\\17** - MSc Course in Computer Science - Department of Mathematics and Computer Science - University of Catania, Italy. 
 """
 
 [header]
@@ -21,7 +21,7 @@ caption = ""
 
 The course of **Multimedia** is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
 
-Within this course, I taught the module **"Video media and Motion Estimation"** and several single-topic lectures in the A.Ys. 2017\\18, 2016\\17, and 2014\\15.
+Within this course, I taught the module **"Video media and Motion Estimation"** and several single-topic lectures in the A.Ys. 2016\\17, and 2014\\15.
 
 ## Syllabus
 

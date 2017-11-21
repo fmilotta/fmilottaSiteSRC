@@ -40,11 +40,10 @@ I taught this course in the A.Y. 2017\\18.
   * Integrity constraints
 * Relational Algebra
   * Union, intersection, difference
-    * Renaming
-    * Selection
-    * Projection
-    * Join
-  * ...
+  * Renaming, Selection, Projection, Join
+  * **Queries in relational algebra**
+  * Algebra with NULL values
+  * Views
 * SQL
   * Intra-relational constraints
   * Inter-relational constraints
@@ -71,6 +70,8 @@ Last updated on **21 November, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}} **(Updated)**
+* Esempi di prove d'esame
+  * ...
 
 ### Books
 
@@ -87,7 +88,8 @@ Suggested Readings:
           * 3.1.4 Projection
           * 3.1.5 Join
           * 3.1.6 Queries in relational algebra
-      * ... 
+          * 3.1.8 Algebra with null values
+          * 3.1.9 Views
   * Chapter 4 - SQL
       * 4.2.6 - Intra-relational constraints
       * 4.2.7 - Inter-relational constraints
