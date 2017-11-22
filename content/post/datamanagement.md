@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-11-21
+lastmod = 2017-11-22
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -56,7 +56,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **21 November, 2017**. Teaching material is available in English, under request.
+Last updated on **22 November, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -67,11 +67,11 @@ Last updated on **21 November, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-5-2017-IT.pdf" %}}Autovalutazione 5 - Algebra Relazionale{{% /staticref %}}
 * Esempi
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
-  * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}} **(Updated)**
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}} **(Updated)**
 * Esempi di prove d'esame
-  * ...
+  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso{{% /staticref %}}
 
 ### Books
 

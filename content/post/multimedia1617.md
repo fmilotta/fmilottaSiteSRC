@@ -3,7 +3,7 @@ date = 2016-01-30
 lastmod = 2016-01-30
 draft = false
 tags = ["UNICT", "Magistrale", "2016-17", "2014-15"]
-title = "Multimedia (2016-17, 2015-16)"
+title = "Multimedia (2016-17, 2014-15)"
 math = true
 summary = """
 **A.Y. 2016\\17** - MSc Course in Computer Science - Department of Mathematics and Computer Science - University of Catania, Italy. 
