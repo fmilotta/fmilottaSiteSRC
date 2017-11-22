@@ -71,7 +71,7 @@ Last updated on **22 November, 2017**. Teaching material is available in English
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}} **(Updated)**
 * Esempi di prove d'esame
-  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
 
 ### Books
 
