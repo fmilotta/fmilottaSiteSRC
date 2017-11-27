@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-11-25
+lastmod = 2017-11-27
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -56,7 +56,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **25 November, 2017**. Teaching material is available in English, under request.
+Last updated on **27 November, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -65,6 +65,8 @@ Last updated on **25 November, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-3-2017-IT.pdf" %}}Autovalutazione 3 - Vincoli di Integrità{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-4-2017-IT.pdf" %}}Autovalutazione 4 - Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-5-2017-IT.pdf" %}}Autovalutazione 5 - Algebra Relazionale{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6-2017-IT.pdf" %}}Autovalutazione 6 - Algebra Relazionale{{% /staticref %}}
+      * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6SOL-2017-IT.pdf" %}}Autovalutazione 6 - Possibili Soluzioni{{% /staticref %}}
 * Esempi
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
