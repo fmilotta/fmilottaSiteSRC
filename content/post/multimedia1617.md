@@ -62,7 +62,7 @@ Last updated on **13 October, 2017**. Teaching material is available in English,
 
 * Modulo su **"Video e Stima del Movimento"**
   * {{% staticref "teaching/multimedia/Multimedia-Part1-IT-2016.pdf" %}}Parte I - Fondamenti del media "Video"{{% /staticref %}}
-  * {{% staticref "teaching/multimedia/Multimedia-Part2-IT-2017.pdf" %}}Parte II - Restauro Analogico e Digitale{{% /staticref %}}
+  * {{% staticref "teaching/multimedia/Multimedia-Part2-IT-2016.pdf" %}}Parte II - Restauro Analogico e Digitale{{% /staticref %}}
   * {{% staticref "teaching/multimedia/Multimedia-Part3-IT-2017.pdf" %}}Part III - Stima del Movimento{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-IT-2017.rar" %}}Laboratorio Matlab{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-DS-IT-2017.rar" %}}Laboratorio Matlab - Dataset Immagini{{% /staticref %}}

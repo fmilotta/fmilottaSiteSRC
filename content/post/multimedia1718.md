@@ -1,6 +1,6 @@
 +++
 date = 2017-10-09
-lastmod = 2017-11-21
+lastmod = 2017-11-30
 draft = false
 tags = ["UNICT", "Magistrale", "2017-18"]
 title = "Multimedia"
@@ -44,11 +44,15 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **21 November, 2017**. Teaching material is available in English, under request.
+Last updated on **30 November, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Modulo su **"Video e Stima del Movimento"**
   * {{% staticref "teaching/multimedia/Multimedia-Part1-IT-2017.pdf" %}}Parte I - Fondamenti del media "Video"{{% /staticref %}}
+  * {{% staticref "teaching/multimedia/Multimedia-Part2-IT-2017.pdf" %}}Parte II - Restauro Analogico e Digitale{{% /staticref %}}
+  * {{% staticref "teaching/multimedia/Multimedia-Part3-IT-2017.pdf" %}}Part III - Stima del Movimento{{% /staticref %}}
+      * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-IT-2017.rar" %}}Laboratorio Matlab{{% /staticref %}}
+      * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-DS-IT-2017.rar" %}}Laboratorio Matlab - Dataset Immagini{{% /staticref %}}
 
 ### Books
 
