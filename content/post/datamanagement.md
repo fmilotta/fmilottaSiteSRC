@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-11-27
+lastmod = 2017-11-30
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -42,6 +42,7 @@ I taught this course in the A.Y. 2017\\18.
   * Union, intersection, difference
   * Renaming, Selection, Projection, Join
   * **Queries in relational algebra**
+  * Equivalence of algebraic expressions
   * Algebra with NULL values
   * Views
 * SQL
@@ -56,7 +57,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **27 November, 2017**. Teaching material is available in English, under request.
+Last updated on **30 November, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -74,7 +75,7 @@ Last updated on **27 November, 2017**. Teaching material is available in English
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
 * Esempi di prove d'esame
-  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
+  * **[AGGIORNATO]** {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
 
 ### Books
 
@@ -91,6 +92,8 @@ Suggested Readings:
           * 3.1.4 Projection
           * 3.1.5 Join
           * 3.1.6 Queries in relational algebra
+          * 3.1.7 Equivalence of algebraic expressions
+              * 1, 2, 3, 6, 7, 8
           * 3.1.8 Algebra with null values
           * 3.1.9 Views
   * Chapter 4 - SQL
