@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-11-30
+lastmod = 2017-12-05
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -57,7 +57,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **30 November, 2017**. Teaching material is available in English, under request.
+Last updated on **5 December, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -65,9 +65,10 @@ Last updated on **30 November, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-2-2017-IT.pdf" %}}Autovalutazione 2 - Introduzione al Modello Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-3-2017-IT.pdf" %}}Autovalutazione 3 - Vincoli di Integrità{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-4-2017-IT.pdf" %}}Autovalutazione 4 - Algebra Relazionale{{% /staticref %}}
-  * **[AGGIORNATO]** {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-5-2017-IT.pdf" %}}Autovalutazione 5 - Algebra Relazionale{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-5-2017-IT.pdf" %}}Autovalutazione 5 - Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6-2017-IT.pdf" %}}Autovalutazione 6 - Algebra Relazionale{{% /staticref %}}
       * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6SOL-2017-IT.pdf" %}}Autovalutazione 6 - Possibili Soluzioni{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-7-2017-IT.pdf" %}}Autovalutazione 7 - Algebra Relazionale{{% /staticref %}}
 * Esempi
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
@@ -76,7 +77,7 @@ Last updated on **30 November, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
 * Esempi di prove d'esame
-  * **[AGGIORNATO]** {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
 
 ### Books
 
