@@ -14,8 +14,8 @@ weight = 50
 
 +++
 
+- {{% staticref "CV/Resume-EN-122017.pdf" %}}Academic Resume [English]{{% /staticref %}} - Updated: 20 Dec 2017
 - {{% staticref "CV/CV-Europass-EN-100717.pdf" %}}Curriculum Vitae (Europass format) [English]{{% /staticref %}} - Updated: 10 Oct 2017
 - {{% staticref "CV/CV-Europass-IT-071017.pdf" %}}Curriculum Vitae (Europass format) [Italian]{{% /staticref %}} - Updated: 10 Oct 2017
-- {{% staticref "CV/Resume-EN-100717.pdf" %}}Academic Resume [English]{{% /staticref %}} - Updated: 10 Oct 2017
 - **Research Statement**: *available under request*
 - **Teaching Philosophy**: *available under request*

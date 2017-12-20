@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Filippo LM Milotta"
-  role = "PhD Candidate - Computer Science"
+  role = "PhD ABD - Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -57,7 +57,7 @@ defaultContentLanguageInSubdir = false
   date_format = "Jan 2, 2006"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
