@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-12-12
+lastmod = 2017-12-22
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -38,13 +38,21 @@ I taught this course in the A.Y. 2017\\18.
   * Definitions of Schemes and Instances
   * NULL values
   * Integrity constraints
-* Relational Algebra
+* **Relational Algebra**
   * Union, intersection, difference
   * Renaming, Selection, Projection, Join
   * **Queries in relational algebra**
   * Equivalence of algebraic expressions
   * Algebra with NULL values
   * Views
+* Design techniques and models
+  * The database design process
+  * The life cycle of information systems
+  * Methodologies for database design
+* **The Entity-Relationship model**
+  * The basic constructs of the model
+  * Other constructs of the model
+  * Final overview of the E-R model
 * SQL
   * Intra-relational constraints
   * Inter-relational constraints
@@ -57,7 +65,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **12 December, 2017**. Teaching material is available in English, under request.
+Last updated on **22 December, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -73,6 +81,7 @@ Last updated on **12 December, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-3-2017-IT.pdf" %}}Esempi 3 - Algebra Relazionale - Ricerca di MAX/MIN{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Example-4-2017-IT.pdf" %}}Esempi 4 - Modello E-R (by D. Allegra){{% /staticref %}}
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
@@ -103,5 +112,8 @@ Suggested Readings:
   * Chapter 4 - SQL
       * 4.2.6 - Intra-relational constraints
       * 4.2.7 - Inter-relational constraints
+  * Chapter 7 - Design techniques and models
+      * 7.1 The database design process
+      * 7.2 The Entity-Relationship model
   * ...
   * Exercises + Solutions are available online through this [LINK](http://www.ateneonline.it/atzeni3e/areastudenti.asp)
