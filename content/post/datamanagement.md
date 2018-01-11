@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-12-22
+lastmod = 2017-01-11
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -53,7 +53,13 @@ I taught this course in the A.Y. 2017\\18.
   * The basic constructs of the model
   * Other constructs of the model
   * Final overview of the E-R model
-* SQL
+* Conceptual design
+  * Quality of a conceptual schema
+* Logical design 
+  * Main phases of logical design
+  * Restructuring of E-R schemas
+  * Translation into the relational model
+* **SQL**
   * Intra-relational constraints
   * Inter-relational constraints
 * ...
@@ -65,7 +71,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **22 December, 2017**. Teaching material is available in English, under request.
+Last updated on **11 January, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -82,6 +88,7 @@ Last updated on **22 December, 2017**. Teaching material is available in English
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-3-2017-IT.pdf" %}}Esempi 3 - Algebra Relazionale - Ricerca di MAX/MIN{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-4-2017-IT.pdf" %}}Esempi 4 - Modello E-R (by D. Allegra){{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Example-5-2017-IT.pdf" %}}Esempi 5 - Progettazione Logica{{% /staticref %}} **[Password Required]**
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
@@ -90,11 +97,12 @@ Last updated on **22 December, 2017**. Teaching material is available in English
 * Esempi di prove d'esame
   * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
 
-### Books
-
-Suggested Readings:
+### Suggested Readings:
 
 * Ceri, S., Atzeni, P., Paraboschi, S., & Torlone, R. (2009). _**Basi di dati: Modelli e linguaggi di interrogazione**_ (III ed.) McGraw Hill.
+{{% alert note %}}
+Chapter indexing in this suggested book is valid only for the referred edition (the III). Other editions may have different chapter indexing. Chapter titles may be more reliable through different editions.
+{{% /alert %}}
   * Chapter 1 - Introduction
   * Chapter 2 - The Relational Model
   * Chapter 3 - Relational Algebra
@@ -110,10 +118,21 @@ Suggested Readings:
           * 3.1.8 Algebra with null values
           * 3.1.9 Views
   * Chapter 4 - SQL
-      * 4.2.6 - Intra-relational constraints
-      * 4.2.7 - Inter-relational constraints
+      * 4.2.6 Intra-relational constraints
+      * 4.2.7 Inter-relational constraints
   * Chapter 7 - Design techniques and models
       * 7.1 The database design process
       * 7.2 The Entity-Relationship model
+  * Chapter 8 - Conceptual design
+      * 8.4 Quality of a conceptual schema
+  * Chapter 9 - Logical design 
+      * 9.1 Main phases of logical design
+      * 9.3 Restructuring of E-R schemas
+      * 9.4 Translation into the relational model
+          * 9.4.1 Entities and many-to-many relationships
+          * 9.4.2 One-to-many relationships
+          * 9.4.3 Entities with external identifiers
+          * 9.4.4 One-to-one relationships
+          * 9.4.5 Translation of a complex schema
   * ...
   * Exercises + Solutions are available online through this [LINK](http://www.ateneonline.it/atzeni3e/areastudenti.asp)

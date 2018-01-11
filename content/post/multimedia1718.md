@@ -1,6 +1,6 @@
 +++
 date = 2017-10-09
-lastmod = 2017-11-30
+lastmod = 2017-01-11
 draft = false
 tags = ["UNICT", "Magistrale", "2017-18"]
 title = "Multimedia"
@@ -36,6 +36,17 @@ Previous editions of this course are available in the following pages: A.Ys. {{%
       * Transmission (broadcasting) and recording video formats
       * Interlacing
       * Analog-Digital Conversion
+  * Part II - Analog and Digital Restoration
+      * Recording artefacts
+      * Common Drops
+  * Part III - Motion Estimation
+      * 3D-2D reference spaces and Projections
+      * Movement Vectors and Models
+      * Motion Estimation Techniques
+      * Block e Feature Matching Algorithms
+  * Part IV - Video formats
+      * (a) Stabilisation
+      * ...
 
 ## Teaching Material
 
@@ -44,7 +55,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **30 November, 2017**. Teaching material is available in English, under request.
+Last updated on **11 January, 2017**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Modulo su **"Video e Stima del Movimento"**
@@ -53,10 +64,10 @@ Last updated on **30 November, 2017**. Teaching material is available in English
   * {{% staticref "teaching/multimedia/Multimedia-Part3-IT-2017.pdf" %}}Part III - Stima del Movimento{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-IT-2017.rar" %}}Laboratorio Matlab{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-DS-IT-2017.rar" %}}Laboratorio Matlab - Dataset Immagini{{% /staticref %}}
+  * {{% staticref "teaching/multimedia/Multimedia-Part4a-IT-2017.pdf" %}}Part IV A - Stabilizzazione{{% /staticref %}}
+      * {{% staticref "teaching/multimedia/Multimedia-Part4-Lab-IT-2017.rar" %}}Laboratorio Matlab{{% /staticref %}}
 
-### Books
-
-Suggested Readings:
+### Suggested Readings:
 
 * Wang, Y., Ostermann, J., & Zhang, Y. Q. (2002). _**Video processing and communications**_ (Vol. 5). Upper Saddle River: Prentice Hall.
 ISO 690
@@ -66,4 +77,5 @@ ISO 690
   * Chapter 6 - Two-Dimensional Motion Estimation
   * Chapter 8 - Foundations of Video Coding
   * Chapter 13 - Video Compression Standards
+* ERTURK, Sarp. Image sequence stabilisation: **Motion vector integration (MVI)** versus **frame position smoothing (FPS)**. In: Image and Signal Processing and Analysis, 2001. ISPA 2001. Proceedings of the 2nd International Symposium on. IEEE, 2001. p. 266-271.
 

@@ -66,7 +66,7 @@ Last updated on **13 October, 2017**. Teaching material is available in English,
   * {{% staticref "teaching/multimedia/Multimedia-Part3-IT-2017.pdf" %}}Part III - Stima del Movimento{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-IT-2017.rar" %}}Laboratorio Matlab{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part3-Lab-DS-IT-2017.rar" %}}Laboratorio Matlab - Dataset Immagini{{% /staticref %}}
-  * {{% staticref "teaching/multimedia/Multimedia-Part4a-IT-2017.pdf" %}}Part IV A - Stabilizzazione{{% /staticref %}}
+  * {{% staticref "teaching/multimedia/Multimedia-Part4a-IT-2016.pdf" %}}Part IV A - Stabilizzazione{{% /staticref %}}
       * {{% staticref "teaching/multimedia/Multimedia-Part4-Lab-IT-2017.rar" %}}Laboratorio Matlab{{% /staticref %}}
   * {{% staticref "teaching/multimedia/Multimedia-Part4b-IT-2017.pdf" %}}Part IV B - Compressione e Codifiche{{% /staticref %}}
 * {{% staticref "teaching/multimedia/Multimedia-Lec3-IT-2017.pdf" %}}Formati e Codifiche per le immagini{{% /staticref %}}
