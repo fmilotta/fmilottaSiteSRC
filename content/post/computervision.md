@@ -19,9 +19,13 @@ caption = ""
 
 ## Summary
 
-The course of **Multimedia** is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
+The course of **Computer Vision** is taught by [Prof. S.Battiato](http://www.dmi.unict.it/~battiato/). The course is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
 
 Within this course, I taught the module **"Stereoscopy"** and a seminar in the A.Y. 2014\\15.
+
+{{% alert note %}}
+The official page of this course is hosted in [Prof. S.Battiato's website](http://www.dmi.unict.it/~battiato/).
+{{% /alert %}}
 
 ## Syllabus
 

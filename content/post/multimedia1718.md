@@ -19,12 +19,12 @@ caption = ""
 
 ## Summary
 
-The course of **Multimedia** is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
+The course of **Multimedia** is taught by [Prof. F.Stanco](http://www.dmi.unict.it/~fstanco/). The course is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
 
-Within this course, I taught the module **"Video media and Motion Estimation"** and several single-topic lectures in the A.Ys. 2017\\18.
+Within this course, I taught the module **"Video media and Motion Estimation"** and several seminars in the A.Ys. 2017\\18, 2016\\17, and 2014\\15.
 
 {{% alert note %}}
-Previous editions of this course are available in the following pages: A.Ys. {{% staticref "post/multimedia1617/" %}}2016\\17{{% /staticref %}}, and {{% staticref "post/multimedia1617/" %}}2015\\16{{% /staticref %}}.
+The official page of this course is hosted in [Prof. F.Stanco's website](http://www.dmi.unict.it/~fstanco/), whilst unofficial previous editions of this course are available in the following pages: A.Ys. {{% staticref "post/multimedia1617/" %}}2016\\17{{% /staticref %}}, and {{% staticref "post/multimedia1617/" %}}2015\\16{{% /staticref %}}.
 {{% /alert %}}
 
 ## Syllabus

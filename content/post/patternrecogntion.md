@@ -19,9 +19,13 @@ caption = ""
 
 ## Summary
 
-The course of **Pattern Recognition** is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
+The course of **Pattern Recognition** is taught by [Prof. G.Gallo](http://www.dipmat.unict.it/~gallo/). The course is part of the *MSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
 
 Within this course, I taught two seminars in the A.Y. 2016\\17.
+
+{{% alert note %}}
+The official page of this course is hosted in [Prof. G.Gallo's website](http://www.dipmat.unict.it/~gallo/).
+{{% /alert %}}
 
 ## Syllabus
 

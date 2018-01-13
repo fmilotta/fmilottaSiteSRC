@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2017-01-11
+lastmod = 2018-01-14
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -71,7 +71,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **11 January, 2018**. Teaching material is available in English, under request.
+Last updated on **14 January, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -83,12 +83,14 @@ Last updated on **11 January, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6-2017-IT.pdf" %}}Autovalutazione 6 - Algebra Relazionale{{% /staticref %}}
       * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6SOL-2017-IT.pdf" %}}Autovalutazione 6 - Possibili Soluzioni{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-7-2017-IT.pdf" %}}Autovalutazione 7 - Algebra Relazionale{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-9-2017-IT.pdf" %}}Autovalutazione 9 - Metodologie e Modelli di Progettazione{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-10-2017-IT.pdf" %}}Autovalutazione 10 - Progettazione Concettuale e Logica{{% /staticref %}}
 * Esempi
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-3-2017-IT.pdf" %}}Esempi 3 - Algebra Relazionale - Ricerca di MAX/MIN{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-4-2017-IT.pdf" %}}Esempi 4 - Modello E-R (by D. Allegra){{% /staticref %}}
-  * {{% staticref "teaching/datamanagement/Datamanagement-Example-5-2017-IT.pdf" %}}Esempi 5 - Progettazione Logica{{% /staticref %}} **[Password Required]**
+  * {{% staticref "teaching/datamanagement/Datamanagement-Example-5-2017-IT.rar" %}}Esempi 5 - Progettazione Logica{{% /staticref %}} **[Password Required]**
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}

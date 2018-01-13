@@ -19,9 +19,13 @@ caption = ""
 
 ## Summary
 
-The course of **Digital Game Development** is part of the *BSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
+The course of **Digital Game Development** is taught by [Prof. F.Stanco](http://www.dmi.unict.it/~fstanco/). The course is part of the *BSc Course in Computer Science* of the *Department of Mathematics and Computer Science* of the *University of Catania, Italy*.
 
 Within this course, I taught the module **Learning curve and User Experience** in the A.Y. 2015\\16.
+
+{{% alert note %}}
+The official page of this course is hosted in [Prof. F.Stanco's website](http://www.dmi.unict.it/~fstanco/).
+{{% /alert %}}
 
 ## Syllabus
 
