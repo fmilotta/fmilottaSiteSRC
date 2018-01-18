@@ -1,6 +1,6 @@
 +++
 date = 2017-10-09
-lastmod = 2017-01-11
+lastmod = 2018-01-11
 draft = false
 tags = ["UNICT", "Magistrale", "2017-18"]
 title = "Multimedia"
@@ -55,7 +55,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **11 January, 2017**. Teaching material is available in English, under request.
+Last updated on **11 January, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Modulo su **"Video e Stima del Movimento"**

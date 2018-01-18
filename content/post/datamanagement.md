@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2018-01-14
+lastmod = 2018-01-18
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -60,9 +60,10 @@ I taught this course in the A.Y. 2017\\18.
   * Restructuring of E-R schemas
   * Translation into the relational model
 * **SQL**
-  * Intra-relational constraints
-  * Inter-relational constraints
-* ...
+  * Data Definition Language (DDL)
+  * Data Manipulation Language (DML)
+  * Data Query Language (DQL) 
+
 
 ## Teaching Material
 
@@ -71,7 +72,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **14 January, 2018**. Teaching material is available in English, under request.
+Last updated on **18 January, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -83,8 +84,8 @@ Last updated on **14 January, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6-2017-IT.pdf" %}}Autovalutazione 6 - Algebra Relazionale{{% /staticref %}}
       * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-6SOL-2017-IT.pdf" %}}Autovalutazione 6 - Possibili Soluzioni{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-7-2017-IT.pdf" %}}Autovalutazione 7 - Algebra Relazionale{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-9-2017-IT.pdf" %}}Autovalutazione 9 - Metodologie e Modelli di Progettazione{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-10-2017-IT.pdf" %}}Autovalutazione 10 - Progettazione Concettuale e Logica{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-9-2017-IT.pdf" %}}Autovalutazione 9 - Metodologie e Modelli di Progettazione{{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-Selfevaluation-10-2017-IT.pdf" %}}Autovalutazione 10 - Progettazione Concettuale e Logica{{% /staticref %}}
 * Esempi
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-1-2017-IT.pdf" %}}Esempi 1 - Introduzione al Modello Relazionale (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-2-2017-IT.pdf" %}}Esempi 2 - Algebra Relazionale (by D. Allegra){{% /staticref %}}
@@ -96,8 +97,20 @@ Last updated on **14 January, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-3-2017-IT.pdf" %}}Esercizi 3 - Algebra Relazionale{{% /staticref %}}
       * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-3SOL-2017-IT.rar" %}}Esercizi 3 - Soluzioni{{% /staticref %}} **[Password Required]**
+  * **[NEW]** [Esercizi 4 - Query MySQL (con editor online)](https://www.w3resource.com/sql-exercises/movie-database-exercise/basic-exercises-on-movie-database.php)
+  * **[NEW]** [Esercizi 5 - Esercizi di teoria su MySQL (w3schools)](https://www.w3schools.com/sql/sql_quiz.asp)
+* Database di prova da scaricare
+  * **[NEW]** {{% staticref "teaching/datamanagement/world.sql.zip" %}}"World": popoli, lingue e nazioni (91Kb){{% /staticref %}}
 * Esempi di prove d'esame
   * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
+
+
+### MySQL Online Documentation:
+
+* **[NEW]** MySQL 5.7 official documentation is available online through this [LINK](https://dev.mysql.com/doc/refman/5.7/en/)
+* **[NEW]** A SQL unofficial documentation is available online on [w3schools](https://www.w3schools.com/sql/)
+* **[NEW]** A SQL unofficial documentation is available online on [tutorialspoint](http://www.tutorialspoint.com/sql/)
+
 
 ### Suggested Readings:
 
@@ -120,8 +133,12 @@ Chapter indexing in this suggested book is valid only for the referred edition (
           * 3.1.8 Algebra with null values
           * 3.1.9 Views
   * Chapter 4 - SQL
-      * 4.2.6 Intra-relational constraints
-      * 4.2.7 Inter-relational constraints
+      * 4.1 SQL language and standard
+      * 4.2 Data definition in SQL
+          * 4.2.1 Elementary domains
+          * 4.2.3 Table definition
+          * 4.2.6 Intra-relational constraints
+          * 4.2.7 Inter-relational constraints
   * Chapter 7 - Design techniques and models
       * 7.1 The database design process
       * 7.2 The Entity-Relationship model
@@ -136,5 +153,4 @@ Chapter indexing in this suggested book is valid only for the referred edition (
           * 9.4.3 Entities with external identifiers
           * 9.4.4 One-to-one relationships
           * 9.4.5 Translation of a complex schema
-  * ...
   * Exercises + Solutions are available online through this [LINK](http://www.ateneonline.it/atzeni3e/areastudenti.asp)
