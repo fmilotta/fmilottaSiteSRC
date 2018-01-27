@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2018-01-18
+lastmod = 2018-01-27
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -72,7 +72,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **18 January, 2018**. Teaching material is available in English, under request.
+Last updated on **27 January, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -97,22 +97,24 @@ Last updated on **18 January, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-3-2017-IT.pdf" %}}Esercizi 3 - Algebra Relazionale{{% /staticref %}}
       * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-3SOL-2017-IT.rar" %}}Esercizi 3 - Soluzioni{{% /staticref %}} **[Password Required]**
-  * **[NEW]** [Esercizi 4 - Query MySQL (con editor online)](https://www.w3resource.com/sql-exercises/movie-database-exercise/basic-exercises-on-movie-database.php)
-  * **[NEW]** [Esercizi 5 - Esercizi di teoria su MySQL (w3schools)](https://www.w3schools.com/sql/sql_quiz.asp)
+  * [Esercizi 4 - Query MySQL (con editor online)](https://www.w3resource.com/sql-exercises/movie-database-exercise/basic-exercises-on-movie-database.php)
+  * [Esercizi 5 - Esercizi di teoria su MySQL (w3schools)](https://www.w3schools.com/sql/sql_quiz.asp)
 * Database di prova da scaricare
-  * **[NEW]** {{% staticref "teaching/datamanagement/world.sql.zip" %}}"World": popoli, lingue e nazioni (91Kb){{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/world.sql.zip" %}}"World": popoli, lingue e nazioni (91Kb){{% /staticref %}}
 * Esempi di prove d'esame
   * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-2-2017-IT.pdf" %}}Esempio Prova d'esame 2 - Parte II del corso{{% /staticref %}}
+      * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-2SOL-2017-IT.rar" %}}Esempio Prova d'esame 2 - Parte II del corso - Soluzioni{{% /staticref %}} **[Password Required]**
 
 
-### MySQL Online Documentation:
+### MySQL Online Documentation
 
-* **[NEW]** MySQL 5.7 official documentation is available online through this [LINK](https://dev.mysql.com/doc/refman/5.7/en/)
-* **[NEW]** A SQL unofficial documentation is available online on [w3schools](https://www.w3schools.com/sql/)
-* **[NEW]** A SQL unofficial documentation is available online on [tutorialspoint](http://www.tutorialspoint.com/sql/)
+* MySQL 5.7 official documentation is available online through this [LINK](https://dev.mysql.com/doc/refman/5.7/en/)
+* A SQL unofficial documentation is available online on [w3schools](https://www.w3schools.com/sql/)
+* A SQL unofficial documentation is available online on [tutorialspoint](http://www.tutorialspoint.com/sql/)
 
 
-### Suggested Readings:
+### Suggested Readings
 
 * Ceri, S., Atzeni, P., Paraboschi, S., & Torlone, R. (2009). _**Basi di dati: Modelli e linguaggi di interrogazione**_ (III ed.) McGraw Hill.
 {{% alert note %}}
