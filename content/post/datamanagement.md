@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2018-01-27
+lastmod = 2018-02-06
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -72,7 +72,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **27 January, 2018**. Teaching material is available in English, under request.
+Last updated on **6 February, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -103,8 +103,10 @@ Last updated on **27 January, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/datamanagement/world.sql.zip" %}}"World": popoli, lingue e nazioni (91Kb){{% /staticref %}}
 * Esempi di prove d'esame
   * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-1-2017-IT.pdf" %}}Esempio Prova d'esame 1 - Parte I del corso (by D. Allegra){{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-2-2017-IT.pdf" %}}Esempio Prova d'esame 2 - Parte II del corso{{% /staticref %}}
-      * **[NEW]** {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-2SOL-2017-IT.rar" %}}Esempio Prova d'esame 2 - Parte II del corso - Soluzioni{{% /staticref %}} **[Password Required]**
+  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-2-2017-IT.pdf" %}}Esempio Prova d'esame 2 - Parte II del corso{{% /staticref %}}
+      * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-2SOL-2017-IT.rar" %}}Esempio Prova d'esame 2 - Parte II del corso - Soluzioni{{% /staticref %}} **[Password Required]**
+  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-3a-2017-IT.pdf" %}}Esame 1/Feb/18 - Modulo 2A (Schemi){{% /staticref %}}
+  * {{% staticref "teaching/datamanagement/Datamanagement-ExamExample-3b-2017-IT.pdf" %}}Esame 1/Feb/18 - Modulo 2B (Schemi){{% /staticref %}}
 
 
 ### MySQL Online Documentation
