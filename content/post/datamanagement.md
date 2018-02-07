@@ -1,6 +1,6 @@
 +++
 date = 2017-10-17
-lastmod = 2018-02-06
+lastmod = 2018-02-07
 draft = false
 tags = ["FiTS Steve Jobs", "2017-18"]
 title = "Data Management"
@@ -72,7 +72,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **6 February, 2018**. Teaching material is available in English, under request.
+Last updated on **7 February, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Autovalutazioni
@@ -92,6 +92,7 @@ Last updated on **6 February, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-3-2017-IT.pdf" %}}Esempi 3 - Algebra Relazionale - Ricerca di MAX/MIN{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-4-2017-IT.pdf" %}}Esempi 4 - Modello E-R (by D. Allegra){{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Example-5-2017-IT.rar" %}}Esempi 5 - Progettazione Logica{{% /staticref %}} **[Password Required]**
+  * {{% staticref "teaching/datamanagement/Datamanagement-Example-6-2017-IT.rar" %}}Esempi 6 - Node.js{{% /staticref %}}
 * Esercizi
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-1-2017-IT.pdf" %}}Esercizi 1 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
   * {{% staticref "teaching/datamanagement/Datamanagement-Exercise-2-2017-IT.pdf" %}}Esercizi 2 - Interrogazioni in Algebra Relazionale{{% /staticref %}}
