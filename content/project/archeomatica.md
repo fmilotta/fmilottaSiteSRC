@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-12-31"
+date = "2016-12-29"
 
 # Project title.
 title = "Archeomatica"
@@ -13,7 +13,7 @@ image_preview = "P-Archeomatica.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["archeomatica"]
+tags = ["archeomatica", "ongoing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

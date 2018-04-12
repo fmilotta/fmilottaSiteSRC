@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-12-27"
+date = "2016-12-30"
 
 # Project title.
 title = "Medical Research"
@@ -13,7 +13,7 @@ image_preview = "P-Medical.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["medicalresearch"]
+tags = ["medicalresearch", "ongoing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -32,8 +32,9 @@ caption = "3D-Data Processing and Analysis applied to Medical Research."
 
 **Related Publications:** 
 
-- {{% staticref "publication/gallo2016breast/" %}}*Breast Shape Parametrization Through Planar Projections*. In Proceedings of International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2016).{{% /staticref %}}
+- {{% staticref "publication/catanuto2018breast/" %}}*Breast Shape Analysis With Curvature Estimates and Principal Component Analysis for Cosmetic and Reconstructive Breast Surgery*. In Aesthetic Surgery Journal (ASJ 2018).{{% /staticref %}}
 - {{% staticref "publication/allegra2017description/" %}}*Description of Breast Morphology through Bag of Normals Representation*. In Proceedings of 19th International Conference on Image Analysis and Processing (ICIAP 2017).{{% /staticref %}}
+- {{% staticref "publication/gallo2016breast/" %}}*Breast Shape Parametrization Through Planar Projections*. In Proceedings of International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2016).{{% /staticref %}}
 
 In the last decade, 3D scanners have been employed in architecture, engineering, biology, cultural heritage as well as diagnostic medicine and reconstruction surgery. These devices allow doctors to get a detailed virtual model of a human body. The opportunity to acquire body parts shape, including soft tissues like the female human breast, has motivated our conjunct study with medical specialists in breast reconstruction.
 	

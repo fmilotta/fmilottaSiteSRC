@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-12-30"
+date = "2016-12-31"
 
 # Project title.
 title = "The Social Picture"
@@ -13,7 +13,7 @@ image_preview = "P-TSP.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["tsp"]
+tags = ["tsp", "ongoing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

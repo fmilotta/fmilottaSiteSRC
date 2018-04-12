@@ -20,7 +20,7 @@ view = 1
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+filter_default = 1
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
@@ -30,12 +30,16 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
+  name = "Ongoing"
+  tag = ".ongoing"
+
+[[filter]]
   name = "Images"
-  tag = ".archeomatica, .tsp"
+  tag = ".archeomatica, .vedi, .tsp"
 
 [[filter]]
   name = "Video"
-  tag = ".archeomatica, .recfusion"
+  tag = ".archeomatica, .vedi, .recfusion"
 
 [[filter]]
   name = "3D Data"
