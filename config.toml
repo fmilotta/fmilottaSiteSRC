@@ -42,6 +42,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatarPNG = "portrait.png"
   email = "milotta@dmi.unict.it"
   address = "Cittadella universitaria - Dipartimento di Matematica e Informatica Studio 200 - Viale A. Doria n°6, 95125, Catania, Italy"
   office_hours = "email for appointment"
