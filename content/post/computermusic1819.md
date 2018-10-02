@@ -97,6 +97,12 @@ Last updated on **1 October, 2018**. Teaching material is available in English, 
   * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
   * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
 
+* Telegram
+  * [Unisciti al canale](https://t.me/joinchat/D902yQ-X0HyVY_5JJtWUmA)
+
+* Questionario preliminare
+  * [Compila il questionario](https://goo.gl/forms/OWH3weis5k3QeFEn1)
+
 
 ### Recommended Readings
 
