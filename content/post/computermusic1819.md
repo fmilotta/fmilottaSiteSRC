@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-10-01
+lastmod = 2018-10-09
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,19 +90,17 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **1 October, 2018**. Teaching material is available in English, under request.
+Last updated on **9 October, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Slide
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
-
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-1-2018-IT.pdf" %}}Lez 1 - Acustica{{% /staticref %}}
+* Questionari e Autovalutazioni
+  * [Questionario Preliminare](https://goo.gl/forms/OWH3weis5k3QeFEn1)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/D902yQ-X0HyVY_5JJtWUmA)
-
-* Questionario preliminare
-  * [Compila il questionario](https://goo.gl/forms/OWH3weis5k3QeFEn1)
-
 
 ### Recommended Readings
 
