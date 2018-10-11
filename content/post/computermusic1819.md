@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-10-09
+lastmod = 2018-10-11
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,15 +90,19 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **9 October, 2018**. Teaching material is available in English, under request.
+Last updated on **11 October, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Slide
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-1-2018-IT.pdf" %}}Lez 1 - Acustica{{% /staticref %}}
+  * **[Updated]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-1-2018-IT.pdf" %}}Lez 1 - Acustica{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-2-2018-IT.pdf" %}}Lez 2 - Acustica{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare](https://goo.gl/forms/OWH3weis5k3QeFEn1)
+  * **[NEW]** [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
+* Software visti a lezione
+  * [Audacity](https://www.audacityteam.org/)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/D902yQ-X0HyVY_5JJtWUmA)
 
