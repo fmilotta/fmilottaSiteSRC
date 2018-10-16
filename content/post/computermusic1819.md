@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-10-11
+lastmod = 2018-10-16
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,17 +90,21 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **11 October, 2018**. Teaching material is available in English, under request.
+Last updated on **16 October, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
+* Diario delle lezioni
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Diario-2018-IT.pdf" %}}Diario fino a 16/10/18{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
-  * **[Updated]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-1-2018-IT.pdf" %}}Lez 1 - Acustica{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-2-2018-IT.pdf" %}}Lez 2 - Acustica{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-1-2018-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
+  * **[Updated]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-2-2018-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-3-2018-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare](https://goo.gl/forms/OWH3weis5k3QeFEn1)
-  * **[NEW]** [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
+  * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 2](https://docs.google.com/forms/d/e/1FAIpQLSfeXqrNIHASVKdiPpJORSt9wDg00XiVMgXkZSNJ9Bmi_LiTqA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
