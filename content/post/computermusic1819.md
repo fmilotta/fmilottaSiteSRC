@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-10-29
+lastmod = 2018-11-06
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,11 +90,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **29 October, 2018**. Teaching material is available in English, under request.
+Last updated on **6 November, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Diario-2018-IT.pdf" %}}Diario fino a 30/10/18{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Diario-2018-IT.pdf" %}}Diario fino a 6/11/18{{% /staticref %}}
+* Progetti Opzionali
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Progetti assegnati fino a 6/11/18{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
@@ -103,8 +105,9 @@ Last updated on **29 October, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-3-2018-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-4-2018-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-5-2018-IT.pdf" %}}Lez 5 - Psicoacustica 1{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-6-2018-IT.pdf" %}}Lez 6 - Psicoacustica 2{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-7-2018-IT.pdf" %}}Lez 7 - Psicoacustica 3{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-6-2018-IT.pdf" %}}Lez 6 - Psicoacustica 2{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-7-2018-IT.pdf" %}}Lez 7 - Psicoacustica 3{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-8-2018-IT.pdf" %}}Lez 8 - Digitalizzazione 1{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://goo.gl/forms/OWH3weis5k3QeFEn1)
   * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
@@ -112,7 +115,8 @@ Last updated on **29 October, 2018**. Teaching material is available in English,
   * [Autovalutazione 3](https://docs.google.com/forms/d/e/1FAIpQLSc0-xXW0U0ecclRN5qOj6zXEdLobZSbxECnzEW7XV2NaEq26A/viewform?usp=sf_link)
   * [Autovalutazione 4](https://docs.google.com/forms/d/e/1FAIpQLSfsQen8H3N-UpxYCBP1sOfT2L3XbzxsujpwvCVN6ErNjy2C5g/viewform?usp=sf_link)
   * [Autovalutazione 5](https://docs.google.com/forms/d/e/1FAIpQLScBNhtcvLGQPcS8rRkE5dtJEYAWTvc0ZJXZeWpn0fzAqmnQGw/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 6](https://docs.google.com/forms/d/e/1FAIpQLSeJC42NNwRhYCR9iSNYhcwbrDpt4aXa3xOe5w-lq-nEK48aKA/viewform?usp=sf_link)
+  * [Autovalutazione 6](https://docs.google.com/forms/d/e/1FAIpQLSeJC42NNwRhYCR9iSNYhcwbrDpt4aXa3xOe5w-lq-nEK48aKA/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 7](https://docs.google.com/forms/d/e/1FAIpQLSfjiu7ek8liiqK2qkBgRnP4FlmB2tLXLKgE6zEE974s_icQuw/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
