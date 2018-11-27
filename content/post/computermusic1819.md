@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-11-22
+lastmod = 2018-11-27
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,13 +90,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **22 November, 2018**. Teaching material is available in English, under request.
+Last updated on **27 November, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
   * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 22/11/18{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 22/11/18{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 27/11/18{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateSlides-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * STEP 2: Template documentazione (non ancora disponibile)
 * Slide
@@ -114,8 +114,8 @@ Last updated on **22 November, 2018**. Teaching material is available in English
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-10-2018-IT.pdf" %}}Lez 10 - Digitalizzazione 3{{% /staticref %}}
       * {{% staticref "teaching/computermusic/piano.wav" %}}Lez 10 - Allegato piano.wav (1.1MB){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-11-2018-IT.pdf" %}}Lez 11 - Digitalizzazione 4{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-12-2018-IT.pdf" %}}Lez 12 - Compressione 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-13-2018-IT.pdf" %}}Lez 13 - Compressione 2{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-12-2018-IT.pdf" %}}Lez 12 - Compressione 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-13-2018-IT.pdf" %}}Lez 13 - Compressione 2{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://goo.gl/forms/OWH3weis5k3QeFEn1)
   * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
@@ -129,7 +129,9 @@ Last updated on **22 November, 2018**. Teaching material is available in English
   * [Autovalutazione 9](https://docs.google.com/forms/d/e/1FAIpQLSftZS9f8Mn7LPk-wdo06owSKc93CJBYhuxaJ9MxuSbxhlIw_Q/viewform?usp=sf_link)
   * [Autovalutazione 10](https://docs.google.com/forms/d/e/1FAIpQLSdso6kapN6kwFtNfJVdNj4tLaZU-PuEZefmvbXZuVABKD-3Qw/viewform?usp=sf_link)
   * [Autovalutazione 11](https://docs.google.com/forms/d/e/1FAIpQLScekS3FOM7YcLGUubS6GCp5PjZGM5PcvjDaFOEAFWnE4x3e8Q/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 12](https://docs.google.com/forms/d/e/1FAIpQLSdlol3eZY2kPa0i-1OQyDOneYtsfkf8WE1YZmPdK52QuXG2MA/viewform?usp=sf_link)
+  * [Autovalutazione 12](https://docs.google.com/forms/d/e/1FAIpQLSdlol3eZY2kPa0i-1OQyDOneYtsfkf8WE1YZmPdK52QuXG2MA/viewform?usp=sf_link)
+  * **[NEW]** [Questionario Intermedio](https://docs.google.com/forms/d/e/1FAIpQLSfSuWnnCDJvgLjIFaRXdeiVk2Qyqz6x2i3ZcxfADxyASw2Rfg/viewform?usp=sf_link)
+  * **[NEW]** [Questionario Pre-Sessione 1](https://docs.google.com/forms/d/e/1FAIpQLScku7zvPfuNZPBw-Xyh9eH9ChJmMwIf_JXRgZiEIinSFGMYAA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
