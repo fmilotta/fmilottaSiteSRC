@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-11-27
+lastmod = 2018-11-29
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,7 +90,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **27 November, 2018**. Teaching material is available in English, under request.
+Last updated on **29 November, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
@@ -116,7 +116,7 @@ Last updated on **27 November, 2018**. Teaching material is available in English
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-11-2018-IT.pdf" %}}Lez 11 - Digitalizzazione 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-12-2018-IT.pdf" %}}Lez 12 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-13-2018-IT.pdf" %}}Lez 13 - Compressione 2{{% /staticref %}}
-* Questionari e Autovalutazioni
+* Questionari, Autovalutazioni ed Esercizi
   * [Questionario Preliminare (Chiuso)](https://goo.gl/forms/OWH3weis5k3QeFEn1)
   * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
   * [Autovalutazione 2](https://docs.google.com/forms/d/e/1FAIpQLSfeXqrNIHASVKdiPpJORSt9wDg00XiVMgXkZSNJ9Bmi_LiTqA/viewform?usp=sf_link)
@@ -131,7 +131,9 @@ Last updated on **27 November, 2018**. Teaching material is available in English
   * [Autovalutazione 11](https://docs.google.com/forms/d/e/1FAIpQLScekS3FOM7YcLGUubS6GCp5PjZGM5PcvjDaFOEAFWnE4x3e8Q/viewform?usp=sf_link)
   * [Autovalutazione 12](https://docs.google.com/forms/d/e/1FAIpQLSdlol3eZY2kPa0i-1OQyDOneYtsfkf8WE1YZmPdK52QuXG2MA/viewform?usp=sf_link)
   * **[NEW]** [Questionario Intermedio](https://docs.google.com/forms/d/e/1FAIpQLSfSuWnnCDJvgLjIFaRXdeiVk2Qyqz6x2i3ZcxfADxyASw2Rfg/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Pre-Sessione 1](https://docs.google.com/forms/d/e/1FAIpQLScku7zvPfuNZPBw-Xyh9eH9ChJmMwIf_JXRgZiEIinSFGMYAA/viewform?usp=sf_link)
+  * [Questionario Pre-Sessione 1 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLScku7zvPfuNZPBw-Xyh9eH9ChJmMwIf_JXRgZiEIinSFGMYAA/viewform?usp=sf_link)
+  * **[NEW]** [PRENOTAZIONE PROVA IN ITINERE 1](https://docs.google.com/forms/d/e/1FAIpQLSejuy6rZGfiqPBTJxgemtrR-gP3HCl4znTyn1JE99FdD7EZhA/viewform?usp=sf_link)
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Exercises-2018-IT.pdf" %}}Esercizi pratici{{% /staticref %}}
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
