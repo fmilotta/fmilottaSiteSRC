@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2018-12-02
+lastmod = 2018-12-11
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,19 +90,20 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **2 December, 2018**. Teaching material is available in English, under request.
+Last updated on **11 December, 2018**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 22/11/18{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 11/12/18{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 27/11/18{{% /staticref %}}
-  * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateSlides-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
-  * STEP 2: Template documentazione (non ancora disponibile)
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 11/12/18{{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep1-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep2-2018-IT.doc" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep3-2018-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
-  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Exam-0-2018-IT.pdf" %}}Esempio di compito (stralcio){{% /staticref %}}
-  * **[UPDATE]** {{% staticref "teaching/computermusic/ComputerMusic-Exercises-2018-IT.pdf" %}}Esempi di Esercizi pratici{{% /staticref %}}
-  * **[NEW]** [PRENOTAZIONE PROVA IN ITINERE 1](https://docs.google.com/forms/d/e/1FAIpQLSejuy6rZGfiqPBTJxgemtrR-gP3HCl4znTyn1JE99FdD7EZhA/viewform?usp=sf_link)
+  * {{% staticref "teaching/computermusic/ComputerMusic-Exam-0-2018-IT.pdf" %}}Esempio di compito (stralcio){{% /staticref %}}
+  * {{% staticref "teaching/computermusic/ComputerMusic-Exercises-2018-IT.pdf" %}}Esempi di Esercizi pratici{{% /staticref %}}
+  * [PRENOTAZIONE PROVA IN ITINERE 1 (Conclusa)](https://docs.google.com/forms/d/e/1FAIpQLSejuy6rZGfiqPBTJxgemtrR-gP3HCl4znTyn1JE99FdD7EZhA/viewform?usp=sf_link)
 * Slide
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0-2018-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-0b-2018-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
@@ -120,6 +121,7 @@ Last updated on **2 December, 2018**. Teaching material is available in English,
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-11-2018-IT.pdf" %}}Lez 11 - Digitalizzazione 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-12-2018-IT.pdf" %}}Lez 12 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-13-2018-IT.pdf" %}}Lez 13 - Compressione 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-14-2018-IT.pdf" %}}Lez 14 - Formati Audio 1{{% /staticref %}}
 * Questionari, Autovalutazioni ed Esercizi
   * [Questionario Preliminare (Chiuso)](https://goo.gl/forms/OWH3weis5k3QeFEn1)
   * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
@@ -134,6 +136,7 @@ Last updated on **2 December, 2018**. Teaching material is available in English,
   * [Autovalutazione 10](https://docs.google.com/forms/d/e/1FAIpQLSdso6kapN6kwFtNfJVdNj4tLaZU-PuEZefmvbXZuVABKD-3Qw/viewform?usp=sf_link)
   * [Autovalutazione 11](https://docs.google.com/forms/d/e/1FAIpQLScekS3FOM7YcLGUubS6GCp5PjZGM5PcvjDaFOEAFWnE4x3e8Q/viewform?usp=sf_link)
   * [Autovalutazione 12](https://docs.google.com/forms/d/e/1FAIpQLSdlol3eZY2kPa0i-1OQyDOneYtsfkf8WE1YZmPdK52QuXG2MA/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 13](https://docs.google.com/forms/d/e/1FAIpQLScPgFx9Nfpfimf_5NC3W3bcbTLMK4MID3dixU1hr1RklYSE4g/viewform?usp=sf_link)
   * **[NEW]** [Questionario Intermedio](https://docs.google.com/forms/d/e/1FAIpQLSfSuWnnCDJvgLjIFaRXdeiVk2Qyqz6x2i3ZcxfADxyASw2Rfg/viewform?usp=sf_link)
   * [Questionario Pre-Sessione 1 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLScku7zvPfuNZPBw-Xyh9eH9ChJmMwIf_JXRgZiEIinSFGMYAA/viewform?usp=sf_link)
 * Software visti a lezione
