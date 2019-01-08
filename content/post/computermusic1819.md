@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2019-01-02
+lastmod = 2019-01-08
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,13 +90,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **2 January, 2019**. Teaching material is available in English, under request.
+Last updated on **8 January, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 2/01/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 8/01/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 13/12/18{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 8/01/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep1-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep2-2018-IT.doc" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep3-2018-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
@@ -122,7 +122,8 @@ Last updated on **2 January, 2019**. Teaching material is available in English, 
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-12-2018-IT.pdf" %}}Lez 12 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-13-2018-IT.pdf" %}}Lez 13 - Compressione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Slide-14-2018-IT.pdf" %}}Lez 14 - Formati Audio 1{{% /staticref %}}
-  * {{% staticref "teaching/computermusic/ComputerMusic-Slide-15-2018-IT.pdf" %}}Lez 15 - Formati Audio 2{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-15-2018-IT.pdf" %}}Lez 15 - Formati Audio 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic/ComputerMusic-Slide-16-2018-IT.rar" %}}Lez 16 - Librerie Audio e Script Python (.rar 590Kb){{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://goo.gl/forms/OWH3weis5k3QeFEn1)
   * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSfSuWnnCDJvgLjIFaRXdeiVk2Qyqz6x2i3ZcxfADxyASw2Rfg/viewform?usp=sf_link)
@@ -141,8 +142,11 @@ Last updated on **2 January, 2019**. Teaching material is available in English, 
   * [Autovalutazione 12](https://docs.google.com/forms/d/e/1FAIpQLSdlol3eZY2kPa0i-1OQyDOneYtsfkf8WE1YZmPdK52QuXG2MA/viewform?usp=sf_link)
   * [Autovalutazione 13](https://docs.google.com/forms/d/e/1FAIpQLScPgFx9Nfpfimf_5NC3W3bcbTLMK4MID3dixU1hr1RklYSE4g/viewform?usp=sf_link)
   * [Autovalutazione 14](https://docs.google.com/forms/d/e/1FAIpQLScyKaEgAwb_GSzSg7lW_bATUimttnJb3aO3AVc_5j6drjvRug/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 15](https://docs.google.com/forms/d/e/1FAIpQLSc40mEqU-LrPo0DnfBG94Fv8_MNUgqqMb9VF5sTUFwruxPTZw/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
+  * **[NEW]** [Anaconda (Python)](https://www.anaconda.com/download/)
+  * **[NEW]** [ffmpeg](https://www.ffmpeg.org/)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/D902yQ-X0HyVY_5JJtWUmA)
 
