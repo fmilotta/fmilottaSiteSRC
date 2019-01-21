@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2019-01-17
+lastmod = 2019-01-21
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music"
@@ -90,18 +90,18 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **17 January, 2019**. Teaching material is available in English, under request.
+Last updated on **21 January, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
   * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 17/01/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 8/01/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 21/01/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep1-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep2-2018-IT.doc" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep3-2018-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
-  * {{% staticref "teaching/computermusic/ComputerMusic-Exam-0-2018-IT.pdf" %}}Esempio di compito (stralcio){{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Exam-0-2018-IT.pdf" %}}Esempio di compito (stralcio){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-Exercises-2018-IT.pdf" %}}Esempi di Esercizi pratici{{% /staticref %}}
   * [PRENOTAZIONE PROVA IN ITINERE 1 (Conclusa)](https://docs.google.com/forms/d/e/1FAIpQLSejuy6rZGfiqPBTJxgemtrR-gP3HCl4znTyn1JE99FdD7EZhA/viewform?usp=sf_link)
 * Slide
@@ -127,10 +127,11 @@ Last updated on **17 January, 2019**. Teaching material is available in English,
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://goo.gl/forms/OWH3weis5k3QeFEn1)
   * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSfSuWnnCDJvgLjIFaRXdeiVk2Qyqz6x2i3ZcxfADxyASw2Rfg/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Seminari - Sessione 1](https://docs.google.com/forms/d/e/1FAIpQLSezAhfVsqDndY0PZsq54FIjFsDQjzLd7Z254PpDyjMGKdVrQw/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Seminari - Sessione 2](https://docs.google.com/forms/d/e/1FAIpQLSeHw_qRSKjd27bX1zCeLQhWZJFTSy8iryU5tgVJm5rtQKzsyg/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Seminari - Sessione 3](https://docs.google.com/forms/d/e/1FAIpQLSdI4L9nnO3_8x2Kxr8Rx9x1cR25Z41uDl8gZJAo3FfpvoWFvQ/viewform?usp=sf_link)
+  * [Questionario Seminari - Sessione 1 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSezAhfVsqDndY0PZsq54FIjFsDQjzLd7Z254PpDyjMGKdVrQw/viewform?usp=sf_link)
+  * [Questionario Seminari - Sessione 2 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeHw_qRSKjd27bX1zCeLQhWZJFTSy8iryU5tgVJm5rtQKzsyg/viewform?usp=sf_link)
+  * [Questionario Seminari - Sessione 3 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSdI4L9nnO3_8x2Kxr8Rx9x1cR25Z41uDl8gZJAo3FfpvoWFvQ/viewform?usp=sf_link)
   * [Questionario Pre-Sessione 1 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLScku7zvPfuNZPBw-Xyh9eH9ChJmMwIf_JXRgZiEIinSFGMYAA/viewform?usp=sf_link)
+  * **[NEW]** [Questionario Pre-Sessione 2](https://docs.google.com/forms/d/e/1FAIpQLSesgO_cznGfHa7xu_uUuekjF0dca_vhbMCR46aFcmwE8EGXaQ/viewform?usp=sf_link)
   * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLScbo5AWAQBqyduSNrufYtntJrnN-dMSKDuHCygybcJiull-Yg/viewform?usp=sf_link)
   * [Autovalutazione 2](https://docs.google.com/forms/d/e/1FAIpQLSfeXqrNIHASVKdiPpJORSt9wDg00XiVMgXkZSNJ9Bmi_LiTqA/viewform?usp=sf_link)
   * [Autovalutazione 3](https://docs.google.com/forms/d/e/1FAIpQLSc0-xXW0U0ecclRN5qOj6zXEdLobZSbxECnzEW7XV2NaEq26A/viewform?usp=sf_link)
@@ -146,7 +147,7 @@ Last updated on **17 January, 2019**. Teaching material is available in English,
   * [Autovalutazione 13](https://docs.google.com/forms/d/e/1FAIpQLScPgFx9Nfpfimf_5NC3W3bcbTLMK4MID3dixU1hr1RklYSE4g/viewform?usp=sf_link)
   * [Autovalutazione 14](https://docs.google.com/forms/d/e/1FAIpQLScyKaEgAwb_GSzSg7lW_bATUimttnJb3aO3AVc_5j6drjvRug/viewform?usp=sf_link)
   * [Autovalutazione 15](https://docs.google.com/forms/d/e/1FAIpQLSc40mEqU-LrPo0DnfBG94Fv8_MNUgqqMb9VF5sTUFwruxPTZw/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 16](https://docs.google.com/forms/d/e/1FAIpQLSflp2Gl_eLH0dchjdSBzJy6yslfSTvnjxo5z2nMnPPxXqJ43A/viewform?usp=sf_link)
+  * [Autovalutazione 16](https://docs.google.com/forms/d/e/1FAIpQLSflp2Gl_eLH0dchjdSBzJy6yslfSTvnjxo5z2nMnPPxXqJ43A/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
   * [Anaconda (Python)](https://www.anaconda.com/download/)
