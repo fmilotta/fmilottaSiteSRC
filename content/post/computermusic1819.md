@@ -165,3 +165,35 @@ Last updated on **1 May, 2019**. Teaching material is available in English, unde
 
 * Tarabella, L. (2014). _**Musica Informatica**_ Apogeo.
 * Rocchesso, D. (2003). _**Sound Processing**_ [Available Online](https://ia600309.us.archive.org/13/items/IntroductionToSoundProcessing/vsp.pdf)
+
+
+### beSTudent
+
+## Teaching Material
+
+{{% alert warning %}}
+The available Teaching Material may contain errors. It **does not** substitute any educational book. It should be used only as a support material during the learning process. Please, report any error by e-mail.
+{{% /alert %}}
+
+{{% alert warning %}}
+I template per la tesi riportati in questa pagina **non sono** una versione ufficiale approvata dal dipartimento. Si raccomanda di concordare il loro utilizzo con il docente relatore di riferimento per il tesista.
+{{% /alert %}}
+
+{{% alert note %}}
+Last updated on **6 June, 2019**. Teaching material is available in English, under request.
+{{% /alert %}}
+
+* Incontro#1 - L'importanza delle *References*:
+  * [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLScYHrUy3E_0BQ43fvyKuXxhNg_shiY9l_EbkEPUdCHhcaDhvQ/viewform?usp=sf_link)
+  * {{% staticref "teaching/bestudent/bestudent-incontro1-2018-IT.pdf" %}}Slide mostrate a lezione{{% /staticref %}}
+  * [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfynenIlk2oIYTZlhuEw0BwfdZtsxmT26p4GN8MTFSbNSdZAA/viewform?usp=sf_link)
+* Incontro#2 - Le meraviglie di *LaTeX*:
+  * [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSduUqSKViYKNBBiayTNZPK2I3jAF4XWaIe91BPqORoq9QJ90A/viewform?usp=sf_link)
+  * {{% staticref "teaching/bestudent/bestudent-incontro2-2018-IT.pdf" %}}Slide mostrate a lezione{{% /staticref %}}
+  * {{% staticref "teaching/bestudent/templateTesiWord.docx" %}}Template Tesi - Word (~60KB){{% /staticref %}}
+  * {{% staticref "teaching/bestudent/templateTesiLaTeX.zip" %}}Template Tesi - LaTeX (~360KB){{% /staticref %}}
+  * [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSf4ShZqAW233fcZIMeno3BQ3dYHDXZmwnwMJr_LfTF1h5b_tg/viewform?usp=sf_link)
+* Incontro#3 - Il Data Scientist e i suoi attrezzi del mestiere:
+  * Prossimamente
+* Telegram
+  * [Unisciti al canale](https://t.me/joinchat/C9f-ZBQWmEjN2r61GaP4RQ)
