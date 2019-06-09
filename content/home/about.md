@@ -44,7 +44,7 @@ weight = 5
 
 # Biography
 
-Filippo Luigi Maria Milotta is a member of the [Image Processing Laboratory (IPLab)](http://iplab.dmi.unict.it/), within the [Department of Mathematics and Computer Science](http://web.dmi.unict.it/) of the University of Catania. He is currently involved in the **postdoctoral program _Scene Understanding and Behavioural Analysis from Egocentric Visual Data_**, within the [Vision Exploitation for Data Interpretation (V.E.D.I.) project](http://www.cutgana.unict.it/content/vedi-vision-exploitation-data-interpretation-0) granted by [CUTGANA](http://www.cutgana.unict.it/) (University of Catania).
+Filippo Luigi Maria Milotta is a member of the [Image Processing Laboratory (IPLab)](http://iplab.dmi.unict.it/), within the [Department of Mathematics and Computer Science](http://web.dmi.unict.it/) of the University of Catania. He is currently employed as Data Scientist in a private industry. He was involved in the **postdoctoral program _Scene Understanding and Behavioural Analysis from Egocentric Visual Data_**, within the [Vision Exploitation for Data Interpretation (V.E.D.I.) project](http://www.cutgana.unict.it/content/vedi-vision-exploitation-data-interpretation-0) granted by [CUTGANA](http://www.cutgana.unict.it/) (University of Catania).
 
 
 PhD in Computer Science, granted by [TIM Telecom Italia](http://www.telecomitalia.com/tit/it/innovazione/archivio/jol-wave-catania.html) in _“Multi-device Media Analysis and Summarization for High Bandwidth Connected Environments”_.

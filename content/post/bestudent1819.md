@@ -1,6 +1,6 @@
 +++
 date = 2019-06-05
-lastmod = 2019-06-05
+lastmod = 2019-06-09
 draft = false
 tags = ["UNICT", "Triennale", "Magistrale", "2018-19"]
 title = "beSTudent"
@@ -77,3 +77,8 @@ Last updated on **6 June, 2019**. Teaching material is available in English, und
   * Prossimamente
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/C9f-ZBQWmEjN2r61GaP4RQ)
+
+## Photo-Gallery
+![image](/teaching/bestudent/photogallery/bestudent-Photo-01-2018.jpg)
+![image](/teaching/bestudent/photogallery/bestudent-Photo-02-2018.jpg)
+![image](/teaching/bestudent/photogallery/bestudent-Photo-03-2018.jpg)
