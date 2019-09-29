@@ -1,9 +1,9 @@
 +++
 date = 2018-10-01
-lastmod = 2019-07-31
+lastmod = 2019-09-29
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
-title = "Computer Music"
+title = "Computer Music 18\\19"
 math = true
 summary = """
 **A.Y. 2018\\19** - BSc Course in Computer Science - Department of Mathematics and Computer Science - University of Catania, Italy.
@@ -90,13 +90,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **31 July, 2019**. Teaching material is available in English, under request.
+Last updated on **29 September, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
   * **[DEFINITIVE]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 12/02/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 31/07/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 29/09/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep1-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep2-2018-IT.doc" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep3-2018-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
