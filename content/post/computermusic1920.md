@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2019-09-29
+lastmod = 2019-10-01
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,23 +94,24 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **29 September, 2019**. Teaching material is available in English, under request.
+Last updated on **1 October, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario fino a 30/09/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario fino a 02/10/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 30/09/19{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 30/09/19{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Slide
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0b-2019-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0b-2019-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-1-2019-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
 * Questionari e Autovalutazioni
-  * **[NEW]** [Questionario Preliminare](https://forms.gle/wHGiQwLP8qsWm5ji7)
+  * [Questionario Preliminare](https://forms.gle/wHGiQwLP8qsWm5ji7)
 * Telegram
-  * **[NEW]** [Unisciti al canale](https://t.me/joinchat/C9f-ZFUHI3kS_cXU_QD2BA)
+  * [Unisciti al canale](https://t.me/joinchat/C9f-ZFUHI3kS_cXU_QD2BA)
 
 ### Recommended Readings
 
