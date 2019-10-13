@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2019-10-08
+lastmod = 2019-10-13
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,26 +94,28 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **8 October, 2019**. Teaching material is available in English, under request.
+Last updated on **13 October, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 08/10/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 13/10/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 08/10/19{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 08/10/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Slide
-  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Introduzione al corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0b-2019-IT.pdf" %}}Lez 0b - Breve storia fino ad oggi{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-1-2019-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-2-2019-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
   * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-3-2019-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-4-2019-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://forms.gle/wHGiQwLP8qsWm5ji7)
   * [Autovalutazione 1](https://docs.google.com/forms/d/e/1FAIpQLSffBe9csauFtSJ648LpHCqBnXZTkiVGKjrcOdkt5gRlA6XmPw/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 2](https://docs.google.com/forms/d/e/1FAIpQLSfcK_5Ii3ViDwQgk1bZ4rW7Th_wWxoh_qV_7asIsAkt_CNyrQ/viewform?usp=sf_link)
+  * [Autovalutazione 2](https://docs.google.com/forms/d/e/1FAIpQLSfcK_5Ii3ViDwQgk1bZ4rW7Th_wWxoh_qV_7asIsAkt_CNyrQ/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 3](https://docs.google.com/forms/d/e/1FAIpQLSerWX-qqd1cilnCvMqxPDkBeCVMAyi2FXnIsv1RmtDcr6JFSQ/viewform?usp=sf_link)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/C9f-ZFUHI3kS_cXU_QD2BA)
 
