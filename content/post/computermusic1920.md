@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2019-10-22
+lastmod = 2019-10-27
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,13 +94,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **22 October, 2019**. Teaching material is available in English, under request.
+Last updated on **27 October, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 22/10/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 27/10/19{{% /staticref %}}
 * Progetti Opzionali
-  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 08/10/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 27/10/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
@@ -113,8 +113,9 @@ Last updated on **22 October, 2019**. Teaching material is available in English,
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-4-2019-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-5-2019-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-6-2019-IT.pdf" %}}Lez 6 - Acustica 6{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-7-2019-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
-  * **[PREVIEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-8-2019-IT.pdf" %}}Lez 8? - Psicoacustica 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-7-2019-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-8-2019-IT.pdf" %}}Lez 8 - Psicoacustica 2{{% /staticref %}}
+  * **[PREVIEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-9-2019-IT.pdf" %}}Lez 9? - Psicoacustica 3{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://forms.gle/wHGiQwLP8qsWm5ji7)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSffBe9csauFtSJ648LpHCqBnXZTkiVGKjrcOdkt5gRlA6XmPw/viewform?usp=sf_link)
@@ -122,9 +123,10 @@ Last updated on **22 October, 2019**. Teaching material is available in English,
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSerWX-qqd1cilnCvMqxPDkBeCVMAyi2FXnIsv1RmtDcr6JFSQ/viewform?usp=sf_link)
   * [Autovalutazione 4 - Acustica 4](https://docs.google.com/forms/d/e/1FAIpQLSeYqIxv2BpDINLpdlIFE4HYLcW6wI35qQFZ4LxEt4ar2ctnCg/viewform?usp=sf_link)
   * [Autovalutazione 5 - Acustica 5](https://docs.google.com/forms/d/e/1FAIpQLScuJj-R3DNuSkjpGxEpcS6n_7NnPjtjzwFXSZuHkiC2Arl_8A/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSdxKlDWRs-7QIcPV23mIo4jNn2k_U3j7OPvQd4D0ZiMVvpy6g/viewform?usp=sf_link)
+  * [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSdxKlDWRs-7QIcPV23mIo4jNn2k_U3j7OPvQd4D0ZiMVvpy6g/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 7 - Psicoacustica 1](https://docs.google.com/forms/d/e/1FAIpQLSc_t_TlcQiZtsiyZDUUDseJy9cJYkxDQ_qpVQ2WW6K8jLGR4Q/viewform?usp=sf_link)
 * Software visti a lezione
-  * **[NEW]** [Audacity](https://www.audacityteam.org/)
+  * [Audacity](https://www.audacityteam.org/)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/C9f-ZFUHI3kS_cXU_QD2BA)
 
@@ -136,5 +138,6 @@ Last updated on **22 October, 2019**. Teaching material is available in English,
 
 ### Suggested Readings
 
+* Kirk, R. & Hunt, A. (1999). _**Digital Sound Processing for Music and Multimedia**_ Focal Press.
 * Tarabella, L. (2014). _**Musica Informatica**_ Apogeo.
 * Rocchesso, D. (2003). _**Sound Processing**_ [Available Online](https://ia600309.us.archive.org/13/items/IntroductionToSoundProcessing/vsp.pdf)
