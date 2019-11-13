@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2019-11-10
+lastmod = 2019-11-12
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,13 +94,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **10 November, 2019**. Teaching material is available in English, under request.
+Last updated on **12 November, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 10/11/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 12/11/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 10/11/19{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 10/11/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
@@ -116,9 +116,10 @@ Last updated on **10 November, 2019**. Teaching material is available in English
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-7-2019-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-8-2019-IT.pdf" %}}Lez 8 - Psicoacustica 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-9-2019-IT.pdf" %}}Lez 9 - Psicoacustica 3{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-10-2019-IT.pdf" %}}Lez 10 - Digitalizzazione 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-11-2019-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
-  * **[PREVIEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-12-2019-IT.pdf" %}}Lez 12? - Digitalizzazione 3{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-10-2019-IT.pdf" %}}Lez 10 - Digitalizzazione 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-11-2019-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-12-2019-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
+  * **[PREVIEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-13-2019-IT.pdf" %}}Lez 13? - Compressione 1{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://forms.gle/wHGiQwLP8qsWm5ji7)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSffBe9csauFtSJ648LpHCqBnXZTkiVGKjrcOdkt5gRlA6XmPw/viewform?usp=sf_link)
@@ -130,7 +131,8 @@ Last updated on **10 November, 2019**. Teaching material is available in English
   * [Autovalutazione 7 - Psicoacustica 1](https://docs.google.com/forms/d/e/1FAIpQLSc_t_TlcQiZtsiyZDUUDseJy9cJYkxDQ_qpVQ2WW6K8jLGR4Q/viewform?usp=sf_link)
   * [Autovalutazione 8 - Psicoacustica 2](https://docs.google.com/forms/d/e/1FAIpQLSeFs5spkPC5z_TL-zNnxVrlCKt9SUP_VW8OZqF0Gto2B_ZXaQ/viewform?usp=sf_link)
   * [Autovalutazione 9 - Psicoacustica 3](https://docs.google.com/forms/d/e/1FAIpQLSfeAP6XeZuVtrDkkMjUbdQ2-nYmr-uH4EcpPKmVlF4zhvt-aQ/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 10 - Digitalizzazione 1](https://docs.google.com/forms/d/e/1FAIpQLSeUMriq3LgTJrjtdgVSZxEJIkwGkWbpKaUnC2KPsS592dGCUg/viewform?usp=sf_link)
+  * [Autovalutazione 10 - Digitalizzazione 1](https://docs.google.com/forms/d/e/1FAIpQLSeUMriq3LgTJrjtdgVSZxEJIkwGkWbpKaUnC2KPsS592dGCUg/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLSeM9tZc_HUTrNCf30T4pBeiQtqxa4zvcgfBx6pz-J9AAopUwA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
