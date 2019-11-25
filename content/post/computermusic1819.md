@@ -1,6 +1,6 @@
 +++
 date = 2018-10-01
-lastmod = 2019-10-08
+lastmod = 2019-11-24
 draft = false
 tags = ["UNICT", "Triennale", "2018-19"]
 title = "Computer Music 18\\19"
@@ -90,13 +90,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Last updated on **8 October, 2019**. Teaching material is available in English, under request.
+Last updated on **24 November, 2019**. Teaching material is available in English, under request.
 {{% /alert %}}
 
 * Diario delle lezioni
   * **[DEFINITIVE]** {{% staticref "teaching/computermusic/ComputerMusic-Agenda-2018-IT.pdf" %}}Diario fino a 12/02/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 8/10/19{{% /staticref %}}
+  * **[DEFINITIVE]** {{% staticref "teaching/computermusic/ComputerMusic-Projects-2018-IT.pdf" %}}Requisiti e Progetti assegnati fino a 24/11/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep1-2018-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep2-2018-IT.doc" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic/ComputerMusic-ProjectsTemplateStep3-2018-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
