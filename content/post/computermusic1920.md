@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2019-11-24
+lastmod = 2019-11-26
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,18 +94,18 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **24 November, 2019**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **26 November, 2019**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 24/11/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 26/11/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 24/11/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 26/11/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Slide
-  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0info-2019-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0info-2019-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-1-2019-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-2-2019-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
@@ -120,12 +120,13 @@ Material last updated on **24 November, 2019**. Teaching material is available i
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-11-2019-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-12-2019-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-13-2019-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-15-2019-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
-  * **[PREVIEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-16-2019-IT.pdf" %}}Lez 16? - Formati 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-15-2019-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-16-2019-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
+  * **[PREVIEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-17-2019-IT.pdf" %}}Lez 17? - Formati 2{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://forms.gle/wHGiQwLP8qsWm5ji7)
-  * **[NEW]** [Questionario Intermedio (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSeZsY6S1ELjxnTK9D_0EBwx5Arn42_iDsk4I16C_RLoXxMbKg/viewform?usp=sf_link)
+  * **[ENDING]** [Questionario Intermedio (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSeZsY6S1ELjxnTK9D_0EBwx5Arn42_iDsk4I16C_RLoXxMbKg/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSffBe9csauFtSJ648LpHCqBnXZTkiVGKjrcOdkt5gRlA6XmPw/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSfcK_5Ii3ViDwQgk1bZ4rW7Th_wWxoh_qV_7asIsAkt_CNyrQ/viewform?usp=sf_link)
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSerWX-qqd1cilnCvMqxPDkBeCVMAyi2FXnIsv1RmtDcr6JFSQ/viewform?usp=sf_link)
@@ -139,9 +140,11 @@ Material last updated on **24 November, 2019**. Teaching material is available i
   * [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLSeM9tZc_HUTrNCf30T4pBeiQtqxa4zvcgfBx6pz-J9AAopUwA/viewform?usp=sf_link)
   * [Autovalutazione 12 - Digitalizzazione 3](https://docs.google.com/forms/d/e/1FAIpQLSdiN2qGdzBdf7v_FQ--2dIqGjmk2pLCZi6yzSxknQlwoLpMPg/viewform?usp=sf_link)
   * [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLScRnVEnfAjB3AQIx2zFZIGQdi7Idf4SPnboLmpDAj5k0RMdMA/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLScTbmSym15tRUKU7COlRj0abBAPVhLMQQ9_YuUHGRzJs9vkZg/viewform?usp=sf_link)
+  * [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLScTbmSym15tRUKU7COlRj0abBAPVhLMQQ9_YuUHGRzJs9vkZg/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSdIxa6eIgGlQFfgFvIfBVqiXi2VViM9DalCcir4_AnI2hIrRg/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
+  * **[NEW]** [ffmpeg](https://www.ffmpeg.org/)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/C9f-ZFUHI3kS_cXU_QD2BA)
 
