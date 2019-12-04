@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2019-12-01
+lastmod = 2019-12-03
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,13 +94,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **1 December, 2019**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **3 December, 2019**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 1/12/19{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 3/12/19{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 1/12/19{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 1/12/19{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
@@ -122,8 +122,10 @@ Material last updated on **1 December, 2019**. Teaching material is available in
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-13-2019-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-15-2019-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-16-2019-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-17-2019-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-16-2019-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-17-2019-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-18note-2019-IT.pdf" %}}Lez 18 - Note agli script{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-18code-2019-IT.zip" %}}Lez 18 - Librerie Audio e Script Python (.zip 3790KB){{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://forms.gle/wHGiQwLP8qsWm5ji7)
   * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeZsY6S1ELjxnTK9D_0EBwx5Arn42_iDsk4I16C_RLoXxMbKg/viewform?usp=sf_link)
@@ -143,9 +145,11 @@ Material last updated on **1 December, 2019**. Teaching material is available in
   * [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLScRnVEnfAjB3AQIx2zFZIGQdi7Idf4SPnboLmpDAj5k0RMdMA/viewform?usp=sf_link)
   * [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLScTbmSym15tRUKU7COlRj0abBAPVhLMQQ9_YuUHGRzJs9vkZg/viewform?usp=sf_link)
   * [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSdIxa6eIgGlQFfgFvIfBVqiXi2VViM9DalCcir4_AnI2hIrRg/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSdTimyvr34I2pQ4KfTc6_HMfUO1tKBw8uIxbCX90jPsVj4kuA/viewform?usp=sf_link)
+  * [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSdTimyvr34I2pQ4KfTc6_HMfUO1tKBw8uIxbCX90jPsVj4kuA/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLSfvba9FfFMinGVrFAjwBMGp_xcdD0LgfFYk-eTVpjxlQIz8Xg/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
+  * **[NEW]** [Anaconda (Python - v3)](https://www.anaconda.com/download/)
   * [ffmpeg](https://www.ffmpeg.org/)
 * Telegram
   * [Unisciti al canale](https://t.me/joinchat/C9f-ZFUHI3kS_cXU_QD2BA)
