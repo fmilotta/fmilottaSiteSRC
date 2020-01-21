@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2020-01-18
+lastmod = 2020-01-21
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,18 +94,18 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **18 January, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **21 January, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 18/1/20{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 18/1/20{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 18/1/20{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 18/1/20{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
-  * {{% staticref "teaching/computermusic19/ComputerMusic-Exercises-2019-IT.pdf" %}}Esempi di Esercizi pratici (Parte 1){{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Exercises-2019-IT.pdf" %}}Esempi di Esercizi pratici (Parte 1){{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0info-2019-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
@@ -122,7 +122,7 @@ Material last updated on **18 January, 2020**. Teaching material is available in
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-11-2019-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-12-2019-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-13-2019-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
-  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-15-2019-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-16-2019-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-17-2019-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
@@ -132,7 +132,7 @@ Material last updated on **18 January, 2020**. Teaching material is available in
   * [Questionario Preliminare (Chiuso)](https://forms.gle/wHGiQwLP8qsWm5ji7)
   * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeZsY6S1ELjxnTK9D_0EBwx5Arn42_iDsk4I16C_RLoXxMbKg/viewform?usp=sf_link)
   * [Questionario Pre-Ripasso Parte 1 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSdkH6G5kYI5n6wEbgyxJugofCRSANVjVBMzMvkpTBN1Rl83KQ/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Pre-Ripasso Parte 2 (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSdIp8I34HZJ-D8bnyZOf7wsQhf3JNiBF8sUDUtwZ2Dv5CV-Rg/viewform?usp=sf_link)
+  * [Questionario Pre-Ripasso Parte 2 (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSdIp8I34HZJ-D8bnyZOf7wsQhf3JNiBF8sUDUtwZ2Dv5CV-Rg/viewform?usp=sf_link)
   * [Votazione Seminari da presentare in aula (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSdHoNHXZWaTGDARW-OZYraafcy3ZQpZMg8jqRtZAah4j9Tr_A/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSffBe9csauFtSJ648LpHCqBnXZTkiVGKjrcOdkt5gRlA6XmPw/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSfcK_5Ii3ViDwQgk1bZ4rW7Th_wWxoh_qV_7asIsAkt_CNyrQ/viewform?usp=sf_link)
