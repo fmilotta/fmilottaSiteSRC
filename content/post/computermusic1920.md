@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2020-01-21
+lastmod = 2020-01-25
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,7 +94,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **21 January, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **25 January, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
@@ -105,7 +105,7 @@ Material last updated on **21 January, 2020**. Teaching material is available in
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Exercises-2019-IT.pdf" %}}Esempi di Esercizi pratici (Parte 1){{% /staticref %}}
+  * **[!UPDATED!]** {{% staticref "teaching/computermusic19/ComputerMusic-Exercises-2019-IT.pdf" %}}Esempi di Esercizi pratici{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0info-2019-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
@@ -122,7 +122,7 @@ Material last updated on **21 January, 2020**. Teaching material is available in
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-11-2019-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-12-2019-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-13-2019-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-14-2019-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-15-2019-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-16-2019-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-17-2019-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
