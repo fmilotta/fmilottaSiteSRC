@@ -1,6 +1,6 @@
 +++
 date = 2019-09-29
-lastmod = 2020-01-25
+lastmod = 2020-04-04
 draft = false
 tags = ["UNICT", "Triennale", "2019-20"]
 title = "Computer Music 19\\20"
@@ -94,18 +94,18 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **25 January, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **4 April, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
   * {{% staticref "teaching/computermusic19/ComputerMusic-Agenda-2019-IT.pdf" %}}Diario aggiornato il 18/1/20{{% /staticref %}}
 * Progetti Opzionali
-  * {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 18/1/20{{% /staticref %}}
+  * **[DEFINITIVE]** {{% staticref "teaching/computermusic19/ComputerMusic-Projects-2019-IT.pdf" %}}Requisiti e Progetti assegnati fino a 4/4/20{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep1-2019-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep2-2019-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-ProjectsTemplateStep3-2019-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
-  * **[!UPDATED!]** {{% staticref "teaching/computermusic19/ComputerMusic-Exercises-2019-IT.pdf" %}}Esempi di Esercizi pratici{{% /staticref %}}
+  * {{% staticref "teaching/computermusic19/ComputerMusic-Exercises-2019-IT.pdf" %}}Esempi di Esercizi pratici{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0info-2019-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic19/ComputerMusic-Slide-0-2019-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
@@ -169,3 +169,13 @@ Material last updated on **25 January, 2020**. Teaching material is available in
 
 * Tarabella, L. (2014). _**Musica Informatica**_ Apogeo.
 * Rocchesso, D. (2003). _**Sound Processing**_ [Available Online](https://ia600309.us.archive.org/13/items/IntroductionToSoundProcessing/vsp.pdf)
+
+## Photo-Gallery
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-01-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-02-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-03-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-04-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-05-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-06-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-07-2020.jpg)
+![image](/teaching/computermusic19/photogallery/computermusic19-Photo-08-2020.jpg)
