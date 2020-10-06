@@ -157,6 +157,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/filippo-milotta-707149b2/"
 
+  [[params.social]]
+  icon = "instagram"
+  icon_pack = "fa"
+  link = "https://www.instagram.com/feelmelot/"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
