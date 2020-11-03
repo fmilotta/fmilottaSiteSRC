@@ -1,6 +1,6 @@
 +++
 date = 2020-10-06
-lastmod = 2020-11-02
+lastmod = 2020-11-03
 draft = false
 tags = ["UNICT", "Triennale", "2020-21"]
 title = "Computer Music 20\\21"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **2 November, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **3 November, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 2/11/20{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 3/11/20{{% /staticref %}}
 * Progetti Opzionali
   * {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale{{% /staticref %}}
   * **! Scadenza consegna STEP 1: 6/11/20 !**
@@ -114,7 +114,8 @@ Material last updated on **2 November, 2020**. Teaching material is available in
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-4-2020-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-5-2020-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-6-2020-IT.pdf" %}}Lez 6 - Acustica 6{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-7-2020-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
+  * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-7-2020-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-8-2020-IT.pdf" %}}Lez 8 - Psicoacustica 2{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSca7DhYKu07gnXemUVWoMcwzYqorPrVEXH-8b10672BWkSTCA/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfAGuoCBH4PK3Rbu49mP5x8yMtbpwTr_6wgL6Kkjo4M2RFWSA/viewform?usp=sf_link)
@@ -122,7 +123,8 @@ Material last updated on **2 November, 2020**. Teaching material is available in
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSfNKtXKXHYPATnuTlM2HySGm0y1ebbiW6YSDdgLj28nVNWGKQ/viewform?usp=sf_link)
   * [Autovalutazione 4 - Acustica 4](https://docs.google.com/forms/d/e/1FAIpQLSd-OZ47iV69EJ44N7T1Bd8ofaMmjiV5cfL73lbW7Nc7RR4ewA/viewform?usp=sf_link)
   * [Autovalutazione 5 - Acustica 5](https://docs.google.com/forms/d/e/1FAIpQLSc6U-2S5VKPIJgl9cNB77EeIVE25miocD7cVz5-aG57SmhYpQ/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSeKFARSz4ulIv43XTjR2zZDzmkTql9kGRFN5AVdDaFtsM8LOg/viewform?usp=sf_link)
+  * [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSeKFARSz4ulIv43XTjR2zZDzmkTql9kGRFN5AVdDaFtsM8LOg/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 7 - Psicoacustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfWyLkFFaXRWNQk5KehekKgy_4VpiETuIUCD0gAHW25CcSeSA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
