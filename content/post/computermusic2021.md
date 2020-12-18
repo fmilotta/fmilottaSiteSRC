@@ -152,7 +152,7 @@ Material last updated on **15 December, 2020**. Teaching material is available i
   * [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSfsVTKWnYEMSuL6BDkvHruOadEzW1x3HPrgvHr7u8-p2gMiTQ/viewform?usp=sf_link)
   * [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSfDQnX-1WkVtdJJUBJX2qm1MID4gDnR-Olk9pelXXOJzhSHzA/viewform?usp=sf_link)
   * **[NEW]** [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLSdHe9nLhedqRoyJCI4nDgApBmV3lRGQ_IVXKOBfS1YCgpyJGQ/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 18 - Librerie Audio e Script Python](https://docs.google.com/forms/d/e/1FAIpQLSdHe9nLhedqRoyJCI4nDgApBmV3lRGQ_IVXKOBfS1YCgpyJGQ/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 18 - Librerie Audio e Script Python](https://docs.google.com/forms/d/e/1FAIpQLSficT0rJ_gqCW0nWGlS5f2o8KI_RZSifdkrFsZP-ekIQ3o7QQ/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
   * **[NEW]** [Anaconda (Python - v3)](https://www.anaconda.com/download/)
