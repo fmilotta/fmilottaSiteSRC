@@ -1,6 +1,6 @@
 +++
 date = 2020-10-06
-lastmod = 2020-12-15
+lastmod = 2020-12-21
 draft = false
 tags = ["UNICT", "Triennale", "2020-21"]
 title = "Computer Music 20\\21"
@@ -94,16 +94,16 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **15 December, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **21 December, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 15/12/20{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 21/12/20{{% /staticref %}}
 * Progetti Opzionali
-  * {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **13/11/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep1-2020-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
-  * **⚠️IN SCADENZA⚠️** **STEP 2** (scadenza consegna **18/12/20**):
+  * **STEP 2** (scadenza consegna **18/12/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep2-2020-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * **Scheda Valutativa STEP 2** (scadenza consegna **28/12/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep2Review-2020-IT.docx" %}}STEP 2: Template scheda valutativa (doc){{% /staticref %}}
@@ -157,6 +157,8 @@ Material last updated on **15 December, 2020**. Teaching material is available i
   * [Audacity](https://www.audacityteam.org/)
   * **[NEW]** [Anaconda (Python - v3)](https://www.anaconda.com/download/)
   * [FFmpeg](https://www.ffmpeg.org/)
+  * **[NEW]** [Google - Teachable Machine](https://teachablemachine.withgoogle.com/train/audio)
+      * **[NEW]** [Example of Audio Classification: YouTube - The Coding Train](https://www.youtube.com/watch?v=TOrVsLklltM)
 * Telegram
   * [Unisciti al canale (Avvisi)](https://t.me/joinchat/AAAAAFhSDM5Y0Hx0QkNQmw)
   * [Unisciti al gruppo (Chat)](https://t.me/joinchat/AAAAAEvmhozjgdAaCUPPbA)
