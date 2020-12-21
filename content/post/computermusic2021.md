@@ -130,7 +130,7 @@ Material last updated on **21 December, 2020**. Teaching material is available i
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-16-2020-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-17-2020-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
   * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-18-2020-IT.pdf" %}}Lez 18 - Note agli script{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic19/ComputerMusic-Slide-18code-2020-IT.zip" %}}Lez 18 - Librerie Audio e Script Python (.zip 4997KB){{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-18code-2020-IT.zip" %}}Lez 18 - Librerie Audio e Script Python (.zip 4997KB){{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSca7DhYKu07gnXemUVWoMcwzYqorPrVEXH-8b10672BWkSTCA/viewform?usp=sf_link)
   * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSfmvO_2N1xfeJ8094nBKokpHl9Sw9Rp6BPN9ICH04OhCkJdLQ/viewform?usp=sf_link)
