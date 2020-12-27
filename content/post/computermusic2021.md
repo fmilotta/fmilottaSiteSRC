@@ -1,6 +1,6 @@
 +++
 date = 2020-10-06
-lastmod = 2020-12-21
+lastmod = 2020-12-27
 draft = false
 tags = ["UNICT", "Triennale", "2020-21"]
 title = "Computer Music 20\\21"
@@ -94,7 +94,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **21 December, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **27 December, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
@@ -115,7 +115,7 @@ Material last updated on **21 December, 2020**. Teaching material is available i
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-1-2020-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-2-2020-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-3-2020-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
-  * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-4-2020-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-4-2020-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-5-2020-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-6-2020-IT.pdf" %}}Lez 6 - Acustica 6{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-7-2020-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
