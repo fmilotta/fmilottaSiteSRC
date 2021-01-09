@@ -1,6 +1,6 @@
 +++
 date = 2020-10-06
-lastmod = 2020-12-27
+lastmod = 2021-01-09
 draft = false
 tags = ["UNICT", "Triennale", "2020-21"]
 title = "Computer Music 20\\21"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **27 December, 2020**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **9 January, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 21/12/20{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 09/01/21{{% /staticref %}}
 * Progetti Opzionali
   * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **13/11/20**):
@@ -107,7 +107,7 @@ Material last updated on **27 December, 2020**. Teaching material is available i
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep2-2020-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
   * **Scheda Valutativa STEP 2** (scadenza consegna **28/12/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep2Review-2020-IT.docx" %}}STEP 2: Template scheda valutativa (doc){{% /staticref %}}
-  * **STEP 3** (scadenza consegna **15/01/21** - se selezionati **5/01/20**):
+  * **IN SCADENZA** - **STEP 3** (scadenza consegna **15/01/21** - se selezionati **8/01/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep3-2020-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-0info-2020-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
@@ -115,7 +115,7 @@ Material last updated on **27 December, 2020**. Teaching material is available i
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-1-2020-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-2-2020-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-3-2020-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-4-2020-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
+  * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-4-2020-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-5-2020-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-6-2020-IT.pdf" %}}Lez 6 - Acustica 6{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-7-2020-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
@@ -129,12 +129,12 @@ Material last updated on **27 December, 2020**. Teaching material is available i
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-15-2020-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-16-2020-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-17-2020-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-18-2020-IT.pdf" %}}Lez 18 - Note agli script{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-18code-2020-IT.zip" %}}Lez 18 - Librerie Audio e Script Python (.zip 4997KB){{% /staticref %}}
+  * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-18-2020-IT.pdf" %}}Lez 18 - Note agli script{{% /staticref %}}
+  * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-18code-2020-IT.zip" %}}Lez 18 - Librerie Audio e Script Python (.zip 4997KB){{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSca7DhYKu07gnXemUVWoMcwzYqorPrVEXH-8b10672BWkSTCA/viewform?usp=sf_link)
   * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSfmvO_2N1xfeJ8094nBKokpHl9Sw9Rp6BPN9ICH04OhCkJdLQ/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Pre-Ripasso ed Esercitazione (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSd87ob-RmkkjVk8YmYO_FmMLaiEhi5b2HS-YrghH3_72GqoCg/viewform?usp=sf_link)
+  * **[IN CHIUSURA]** [Questionario Pre-Ripasso ed Esercitazione (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSd87ob-RmkkjVk8YmYO_FmMLaiEhi5b2HS-YrghH3_72GqoCg/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfAGuoCBH4PK3Rbu49mP5x8yMtbpwTr_6wgL6Kkjo4M2RFWSA/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSeb555g5N1u2t9WCOxUj25bq3ujXPHZTq1tEHoAJyBCko_6Dg/viewform?usp=sf_link)
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSfNKtXKXHYPATnuTlM2HySGm0y1ebbiW6YSDdgLj28nVNWGKQ/viewform?usp=sf_link)
@@ -151,14 +151,14 @@ Material last updated on **27 December, 2020**. Teaching material is available i
   * [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLSdxpHljhoSJWFN13Oon768LlsNM9PSyPpbPGoYVC2S1w--Gkg/viewform?usp=sf_link)
   * [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSfsVTKWnYEMSuL6BDkvHruOadEzW1x3HPrgvHr7u8-p2gMiTQ/viewform?usp=sf_link)
   * [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSfDQnX-1WkVtdJJUBJX2qm1MID4gDnR-Olk9pelXXOJzhSHzA/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLSdHe9nLhedqRoyJCI4nDgApBmV3lRGQ_IVXKOBfS1YCgpyJGQ/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 18 - Librerie Audio e Script Python](https://docs.google.com/forms/d/e/1FAIpQLSficT0rJ_gqCW0nWGlS5f2o8KI_RZSifdkrFsZP-ekIQ3o7QQ/viewform?usp=sf_link)
+  * [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLSdHe9nLhedqRoyJCI4nDgApBmV3lRGQ_IVXKOBfS1YCgpyJGQ/viewform?usp=sf_link)
+  * [Autovalutazione 18 - Librerie Audio e Script Python](https://docs.google.com/forms/d/e/1FAIpQLSficT0rJ_gqCW0nWGlS5f2o8KI_RZSifdkrFsZP-ekIQ3o7QQ/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
-  * **[NEW]** [Anaconda (Python - v3)](https://www.anaconda.com/download/)
+  * [Anaconda (Python - v3)](https://www.anaconda.com/download/)
   * [FFmpeg](https://www.ffmpeg.org/)
-  * **[NEW]** [Google - Teachable Machine](https://teachablemachine.withgoogle.com/train/audio)
-      * **[NEW]** [Example of Audio Classification: YouTube - The Coding Train](https://www.youtube.com/watch?v=TOrVsLklltM)
+  * [Google - Teachable Machine](https://teachablemachine.withgoogle.com/train/audio)
+      * [Example of Audio Classification: YouTube - The Coding Train](https://www.youtube.com/watch?v=TOrVsLklltM)
 * Telegram
   * [Unisciti al canale (Avvisi)](https://t.me/joinchat/AAAAAFhSDM5Y0Hx0QkNQmw)
   * [Unisciti al gruppo (Chat)](https://t.me/joinchat/AAAAAEvmhozjgdAaCUPPbA)
