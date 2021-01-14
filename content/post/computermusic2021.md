@@ -1,6 +1,6 @@
 +++
 date = 2020-10-06
-lastmod = 2021-01-11
+lastmod = 2021-01-14
 draft = false
 tags = ["UNICT", "Triennale", "2020-21"]
 title = "Computer Music 20\\21"
@@ -94,13 +94,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **11 January, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **14 January, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
   * {{% staticref "teaching/computermusic20/ComputerMusic-Agenda-2020-IT.pdf" %}}Diario aggiornato il 09/01/21{{% /staticref %}}
 * Progetti Opzionali
-  * {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **13/11/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep1-2020-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * **STEP 2** (scadenza consegna **18/12/20**):
@@ -110,7 +110,7 @@ Material last updated on **11 January, 2021**. Teaching material is available in
   * **IN SCADENZA** - **STEP 3** (scadenza consegna **15/01/21** - se selezionati **8/01/20**):
       * {{% staticref "teaching/computermusic20/ComputerMusic-ProjectsTemplateStep3-2020-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
-  * **[NEW]** {{% staticref "teaching/computermusic20/ComputerMusic-Exercises-2020-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/computermusic20/ComputerMusic-Exercises-2020-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-0info-2020-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/computermusic20/ComputerMusic-Slide-0-2020-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
