@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2021-09-29
+lastmod = 2021-10-06
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,21 +94,29 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **29 September, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **6 October, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 29/09/21{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 29/09/21{{% /staticref %}}
 * Progetti Opzionali
-  * **[WorkInProgress]** {{% staticref "teaching/computermusic20/ComputerMusic-Projects-2020-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
+  * **STEP 1** (scadenza consegna **12/11/21**):
+      * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep1-2021-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
+  * **STEP 2** (scadenza consegna **17/12/21**):
+      * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep2-2021-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
+  * **Scheda Valutativa STEP 2** (scadenza consegna **27/12/21**):
+      * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep2Review-2021-IT.docx" %}}STEP 2: Template scheda valutativa (doc){{% /staticref %}}
+  * **STEP 3** (scadenza consegna **14/01/22** - se selezionati **7/01/22**):
+      * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep3-2021-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Slide
-  * **[WorkInProgress]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-0info-2020-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
-  * **[WorkInProgress]** {{% staticref "teaching/computermusic20/ComputerMusic-Slide-0-2020-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-0info-2021-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-0-2021-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
 * Questionari e Autovalutazioni
-  * **[WorkInProgress]** [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSca7DhYKu07gnXemUVWoMcwzYqorPrVEXH-8b10672BWkSTCA/viewform?usp=sf_link)
+  * **[NEW]** [Questionario Preliminare (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
 * Telegram
-  * **[WorkInProgress]** [Unisciti al canale (Avvisi)](https://t.me/joinchat/AAAAAFhSDM5Y0Hx0QkNQmw)
-  * **[WorkInProgress]** [Unisciti al gruppo (Chat)](https://t.me/joinchat/AAAAAEvmhozjgdAaCUPPbA)
+  * **[NEW]** [Unisciti al canale (Avvisi)](https://t.me/joinchat/fZJkGVixLD5lNzQ0)
+  * **[NEW]** [Unisciti al gruppo (Chat)](https://t.me/joinchat/wQP__J6WndhiOTk0)
 
 ### Recommended Readings
 
