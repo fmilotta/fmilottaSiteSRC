@@ -115,6 +115,8 @@ Material last updated on **8 October, 2021**. Teaching material is available in 
   * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-1-2021-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
 * Questionari e Autovalutazioni
   * **[OPEN]** [Questionario Preliminare (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
+* Software visti a lezione
+  * **[NEW]** [Audacity](https://www.audacityteam.org/)
 * Telegram
   * [Unisciti al canale (Avvisi)](https://t.me/joinchat/fZJkGVixLD5lNzQ0)
   * [Unisciti al gruppo (Chat)](https://t.me/joinchat/wQP__J6WndhiOTk0)
