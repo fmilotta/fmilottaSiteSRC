@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2021-10-20
+lastmod = 2021-10-22
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **20 October, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **22 October, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 20/10/21{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 22/10/21{{% /staticref %}}
 * Progetti Opzionali
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **12/11/21**):
@@ -114,13 +114,15 @@ Material last updated on **20 October, 2021**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-0-2021-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-1-2021-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-2-2021-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-3-2021-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-4-2021-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-3-2021-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-4-2021-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-5-2021-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLScVs2ntWHXl2JEjgH_JpsgxwBgPFeQTEZnoRM5UJNIZCxxn7Q/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSdD11kmJm2DQRf5rJk6PnrCBRXjDZKa4UjHu8PCOXafywWEFw/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSftZ7LIYm9ux2NO0RWYY2R-O-b_GOxpeVc4aVa9LddXqAt7jQ/viewform?usp=sf_link)
+  * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSftZ7LIYm9ux2NO0RWYY2R-O-b_GOxpeVc4aVa9LddXqAt7jQ/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 4 - Acustica 4](https://docs.google.com/forms/d/e/1FAIpQLSfIR7VSp0LBYhxni_ZjsPgFE8vZI9QqRc2eY6bgd-K09lTm7w/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
