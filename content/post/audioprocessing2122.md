@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2021-11-12
+lastmod = 2021-11-17
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,13 +94,13 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **12 November, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **17 November, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 10/11/21{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 17/11/21{{% /staticref %}}
 * Progetti Opzionali
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **[EXTENDED]** **STEP 1** (scadenza consegna **19/11/21**):
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep1-2021-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * **STEP 2** (scadenza consegna **17/12/21**):
@@ -121,6 +121,7 @@ Material last updated on **12 November, 2021**. Teaching material is available i
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-7-2021-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-8-2021-IT.pdf" %}}Lez 8 - Psicoacustica 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-9-2021-IT.pdf" %}}Lez 9 - Psicoacustica 3{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-10-2021-IT.pdf" %}}Lez 10 - Digitalizzazione 1{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLScVs2ntWHXl2JEjgH_JpsgxwBgPFeQTEZnoRM5UJNIZCxxn7Q/viewform?usp=sf_link)
@@ -131,7 +132,7 @@ Material last updated on **12 November, 2021**. Teaching material is available i
   * [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSdlk6WzPNSINp-idb3X2H9bd5HkOJuGm-m_M5HbwVnZWCVKjA/viewform?usp=sf_link)
   * [Autovalutazione 7 - Psicoacustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfQqxPFX9SZnzToHuZffoHsHvmXlblfmyXWLg2C8VumOMeZCA/viewform?usp=sf_link)
   * [Autovalutazione 8 - Psicoacustica 2](https://docs.google.com/forms/d/e/1FAIpQLSc1hzIxkBIQMHl6m57thUAcPdzls175000OW4IXqM-o0TMunQ/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 9 - Psicoacustica 3](https://docs.google.com/forms/d/e/1FAIpQLScRyXuCyHrbd6jlI4_-jMseBrcCc8fv2J4pDInBFHI_ZK0fFg/viewform?usp=sf_link)
+  * [Autovalutazione 9 - Psicoacustica 3](https://docs.google.com/forms/d/e/1FAIpQLScRyXuCyHrbd6jlI4_-jMseBrcCc8fv2J4pDInBFHI_ZK0fFg/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity](https://www.audacityteam.org/)
 * Telegram
