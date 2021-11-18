@@ -100,7 +100,7 @@ Material last updated on **19 November, 2021**. Teaching material is available i
 * Diario delle lezioni
   * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 19/11/21{{% /staticref %}}
 * Progetti Opzionali
-  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **[CLOSING]** **STEP 1** (scadenza consegna **19/11/21**):
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep1-2021-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
   * **STEP 2** (scadenza consegna **17/12/21**):
