@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2021-11-26
+lastmod = 2021-12-01
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **26 November, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **1 December, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 26/11/21{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato l' 01/12/21{{% /staticref %}}
 * Progetti Opzionali
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **19/11/21**):
@@ -124,9 +124,11 @@ Material last updated on **26 November, 2021**. Teaching material is available i
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-10-2021-IT.pdf" %}}Lez 10 - Digitalizzazione 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-11-2021-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-12-2021-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-13-2021-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-13-2021-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-14-2021-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
+  * **[NEW]** [Questionario Intermedio (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSecvwdUOgFQpnv0QAGQIWIWGuYL9SKNG1fgrSosIhk4R_iqaw/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLScVs2ntWHXl2JEjgH_JpsgxwBgPFeQTEZnoRM5UJNIZCxxn7Q/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSdD11kmJm2DQRf5rJk6PnrCBRXjDZKa4UjHu8PCOXafywWEFw/viewform?usp=sf_link)
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSftZ7LIYm9ux2NO0RWYY2R-O-b_GOxpeVc4aVa9LddXqAt7jQ/viewform?usp=sf_link)
@@ -138,7 +140,8 @@ Material last updated on **26 November, 2021**. Teaching material is available i
   * [Autovalutazione 9 - Psicoacustica 3](https://docs.google.com/forms/d/e/1FAIpQLScRyXuCyHrbd6jlI4_-jMseBrcCc8fv2J4pDInBFHI_ZK0fFg/viewform?usp=sf_link)
   * [Autovalutazione 10 - Digitalizzazione 1](https://docs.google.com/forms/d/e/1FAIpQLSfVzHK-1-DevU0ZIw3GgdhGESm0WjT4G6MwkaCuL1Sf4AIVnQ/viewform?usp=sf_link)
   * [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLScQ4-7w_r41gQRIRIhbpEwMZCyJCrfIauRDgt27m3jDJ-qr0w/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 12 - Digitalizzazione 3](https://docs.google.com/forms/d/e/1FAIpQLSfuM0591YI0wP0vezW_8sj4xI1Cc56o7W3ElCZSh3Vb0gsVsQ/viewform?usp=sf_link)
+  * [Autovalutazione 12 - Digitalizzazione 3](https://docs.google.com/forms/d/e/1FAIpQLSfuM0591YI0wP0vezW_8sj4xI1Cc56o7W3ElCZSh3Vb0gsVsQ/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLSc0BCeQ8Qu4lwIFts451yAvgdf4oFuDxwoatBAD8hqXTh0Qkw/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.1.2)](https://www.audacityteam.org/)
 * Telegram
