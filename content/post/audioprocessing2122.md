@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2021-12-03
+lastmod = 2021-12-15
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **3 December, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **15 December, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 03/12/21{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 15/12/21{{% /staticref %}}
 * Progetti Opzionali
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **19/11/21**):
@@ -126,7 +126,8 @@ Material last updated on **3 December, 2021**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-12-2021-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-13-2021-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-14-2021-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-15-2021-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-15-2021-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-16-2021-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
   * **[OPEN]** [Questionario Intermedio (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSecvwdUOgFQpnv0QAGQIWIWGuYL9SKNG1fgrSosIhk4R_iqaw/viewform?usp=sf_link)
@@ -143,9 +144,11 @@ Material last updated on **3 December, 2021**. Teaching material is available in
   * [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLScQ4-7w_r41gQRIRIhbpEwMZCyJCrfIauRDgt27m3jDJ-qr0w/viewform?usp=sf_link)
   * [Autovalutazione 12 - Digitalizzazione 3](https://docs.google.com/forms/d/e/1FAIpQLSfuM0591YI0wP0vezW_8sj4xI1Cc56o7W3ElCZSh3Vb0gsVsQ/viewform?usp=sf_link)
   * [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLSc0BCeQ8Qu4lwIFts451yAvgdf4oFuDxwoatBAD8hqXTh0Qkw/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLScDQAUHHkHaPlOjb8SHgPw1PJD9qrfrHuR1em5xBTU7Udi-tg/viewform?usp=sf_link)
+  * [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLScDQAUHHkHaPlOjb8SHgPw1PJD9qrfrHuR1em5xBTU7Udi-tg/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSfCZ7TayQhua7uM4tc8XyEhgkGP4TdeR0yc0LS66dhXFHOFTA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.1.2)](https://www.audacityteam.org/)
+  * **[NEW]** [FFmpeg](https://www.ffmpeg.org/)
 * Telegram
   * [Unisciti al canale (Avvisi)](https://t.me/joinchat/fZJkGVixLD5lNzQ0)
   * [Unisciti al gruppo (Chat)](https://t.me/joinchat/wQP__J6WndhiOTk0)
