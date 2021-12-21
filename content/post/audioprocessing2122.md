@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2021-12-17
+lastmod = 2021-12-22
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,18 +94,18 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **17 December, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **22 December, 2021**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 17/12/21{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 22/12/21{{% /staticref %}}
 * Progetti Opzionali
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **19/11/21**):
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep1-2021-IT.ppt" %}}STEP 1: Template slide progetto (ppt){{% /staticref %}}
-  * **STEP 2** (scadenza consegna **17/12/21**):
+  * **STEP 2** (scadenza consegna **[EXTENDED]** **24/12/21**):
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep2-2021-IT.docx" %}}STEP 2: Template documentazione progetto (doc){{% /staticref %}}
-  * **Scheda Valutativa STEP 2** (scadenza consegna **27/12/21**):
+  * **Scheda Valutativa STEP 2** (scadenza consegna **[EXTENDED]** **30/12/21**):
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep2Review-2021-IT.docx" %}}STEP 2: Template scheda valutativa (doc){{% /staticref %}}
   * **STEP 3** (scadenza consegna **14/01/22** - se selezionati **7/01/22**):
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep3-2021-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
@@ -127,11 +127,13 @@ Material last updated on **17 December, 2021**. Teaching material is available i
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-13-2021-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-14-2021-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-15-2021-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-16-2021-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-17-2021-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-16-2021-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-17-2021-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-18-2021-IT.pdf" %}}Lez 18 - Note agli script{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-18code-2021-IT.zip" %}}Lez 18 - Librerie Audio e Script Python (.zip 5306KB){{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSe8yDGKCLMsVDE-i_ziGG1MS620qD6KOKPgpErn8KdKerCb4A/viewform?usp=sf_link)
-  * **[OPEN]** [Questionario Intermedio (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSecvwdUOgFQpnv0QAGQIWIWGuYL9SKNG1fgrSosIhk4R_iqaw/viewform?usp=sf_link)
+  * [Questionario Intermedio (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSecvwdUOgFQpnv0QAGQIWIWGuYL9SKNG1fgrSosIhk4R_iqaw/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLScVs2ntWHXl2JEjgH_JpsgxwBgPFeQTEZnoRM5UJNIZCxxn7Q/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSdD11kmJm2DQRf5rJk6PnrCBRXjDZKa4UjHu8PCOXafywWEFw/viewform?usp=sf_link)
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSftZ7LIYm9ux2NO0RWYY2R-O-b_GOxpeVc4aVa9LddXqAt7jQ/viewform?usp=sf_link)
@@ -147,10 +149,15 @@ Material last updated on **17 December, 2021**. Teaching material is available i
   * [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLSc0BCeQ8Qu4lwIFts451yAvgdf4oFuDxwoatBAD8hqXTh0Qkw/viewform?usp=sf_link)
   * [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLScDQAUHHkHaPlOjb8SHgPw1PJD9qrfrHuR1em5xBTU7Udi-tg/viewform?usp=sf_link)
   * [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSfCZ7TayQhua7uM4tc8XyEhgkGP4TdeR0yc0LS66dhXFHOFTA/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLScizDBx9BQ5Rxdwc_B8Aw_M76BkiEG9_U87k28aHUhvNhTJug/viewform?usp=sf_link)
+  * [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLScizDBx9BQ5Rxdwc_B8Aw_M76BkiEG9_U87k28aHUhvNhTJug/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLSfGq7kA2lGYM4P_isu5CEqLgqb18k47A3PvO-sJpWhIdwT6Dw/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 18 - Librerie Audio e Script Python](https://docs.google.com/forms/d/e/1FAIpQLSfmeHbjOAYQVsiGBVs23cSsqr9AvM1FMi00vs1R92Nn0QnYug/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.1.2)](https://www.audacityteam.org/)
+  * **[NEW]** [Anaconda (Python - v3)](https://www.anaconda.com/download/)
   * [FFmpeg](https://www.ffmpeg.org/)
+  * **[NEW]** [Google - Teachable Machine](https://teachablemachine.withgoogle.com/train/audio)
+      * **[NEW]** [Example of Audio Classification: YouTube - The Coding Train](https://www.youtube.com/watch?v=TOrVsLklltM)
 * Telegram
   * [Unisciti al canale (Avvisi)](https://t.me/joinchat/fZJkGVixLD5lNzQ0)
   * [Unisciti al gruppo (Chat)](https://t.me/joinchat/wQP__J6WndhiOTk0)
