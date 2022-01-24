@@ -1,6 +1,6 @@
 +++
 date = 2021-09-29
-lastmod = 2022-01-16
+lastmod = 2022-01-24
 draft = false
 tags = ["UNICT", "Triennale", "2021-22"]
 title = "Audio Processing 21\\22"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **16 January, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **24 January, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 16/01/22{{% /staticref %}}
+  * **[DEFINITIVE]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Agenda-2021-IT.pdf" %}}Diario aggiornato il 23/01/22{{% /staticref %}}
 * Progetti Opzionali
   * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Projects-2021-IT.pdf" %}}Specifiche del progetto opzionale e Lista Progetti{{% /staticref %}}
   * **STEP 1** (scadenza consegna **19/11/21**):
@@ -111,9 +111,10 @@ Material last updated on **16 January, 2022**. Teaching material is available in
       * {{% staticref "teaching/audioprocessing21/AudioProcessing-ProjectsTemplateStep3-2021-IT.ppt" %}}STEP 3: Template slide finali progetto (ppt){{% /staticref %}}
 * Esami
   * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Exercises-2021-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
+* Dispense e appunti raccolti dagli studenti
+  * **[NEW]** {{% staticref "teaching/audioprocessing21/Projects/AppuntiCiceroS_Progetto10_202122_AudioProcessing.zip" %}}Appunti di Cicero S. (2MB){{% /staticref %}}
 * Slide
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-0info-2021-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
-  * **[COMING-SOON]** Dispense e appunti raccolti dagli studenti
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-0-2021-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-1-2021-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-2-2021-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
@@ -129,7 +130,7 @@ Material last updated on **16 January, 2022**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-12-2021-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-13-2021-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-14-2021-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
-  * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-15-2021-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-15-2021-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-16-2021-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-17-2021-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing21/AudioProcessing-Slide-18-2021-IT.pdf" %}}Lez 18 - Note agli script{{% /staticref %}}
@@ -162,6 +163,9 @@ Material last updated on **16 January, 2022**. Teaching material is available in
   * [FFmpeg](https://www.ffmpeg.org/)
   * [Google - Teachable Machine](https://teachablemachine.withgoogle.com/train/audio)
       * [Example of Audio Classification: YouTube - The Coding Train](https://www.youtube.com/watch?v=TOrVsLklltM)
+  * **[NEW]** [DataBricks](https://databricks.com/it/)
+      * **[NEW]** [Git Repository - Audio Classification](https://github.com/GorillaBus/urban-audio-classifier)
+      * **[NEW]** [Dataset UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html)
 * Telegram
   * [Unisciti al canale (Avvisi)](https://t.me/joinchat/fZJkGVixLD5lNzQ0)
   * [Unisciti al gruppo (Chat)](https://t.me/joinchat/wQP__J6WndhiOTk0)
@@ -177,3 +181,14 @@ Material last updated on **16 January, 2022**. Teaching material is available in
 * Cammarata, G. (2016). _**Acustica Applicata**_ {{% staticref "teaching/computermusic20/References/cammarata2016acustica.pdf" %}}Available Online{{% /staticref %}}
 * Tarabella, L. (2014). _**Musica Informatica**_ Apogeo.
 * Rocchesso, D. (2003). _**Sound Processing**_ [Available Online](https://ia600309.us.archive.org/13/items/IntroductionToSoundProcessing/vsp.pdf)
+
+## Photo-Gallery
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-01-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-02-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-03-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-04-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-05-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-06-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-07-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-08-2021.jpg)
+![image](/teaching/audioprocessing21/photogallery/audioprocessing21-Photo-09-2021.jpg)
