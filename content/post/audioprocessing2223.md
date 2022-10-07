@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2022-10-04
+lastmod = 2022-10-07
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,19 +94,22 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **5 October, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **7 October, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 04/10/22{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 04/10/22{{% /staticref %}}
 * Slide
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0info-2022-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0-2022-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0info-2022-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0-2022-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-1-2022-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
 * Questionari e Autovalutazioni
-  * **[NEW]** [Questionario Preliminare](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
+  * **[CLOSING]** [Questionario Preliminare](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
+* Software visti a lezione
+  * **[NEW]** [Audacity (v3.1.2)](https://www.audacityteam.org/)
 * Telegram
-  * **[NEW]** [Unisciti al canale (Avvisi)](https://t.me/+okTjrcyZN8M0NTBk)
-  * **[NEW]** [Unisciti al gruppo (Chat)](https://t.me/+knMREAftXOA5ZDg0)
+  * [Unisciti al canale (Avvisi)](https://t.me/+okTjrcyZN8M0NTBk)
+  * [Unisciti al gruppo (Chat)](https://t.me/+knMREAftXOA5ZDg0)
 
 ### Recommended Readings
 
