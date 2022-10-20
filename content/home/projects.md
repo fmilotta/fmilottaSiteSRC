@@ -30,7 +30,7 @@ filter_default = 1
   tag = "*"
   
 [[filter]]
-  name = "Ongoing"
+  name = "Highlighted"
   tag = ".ongoing"
 
 [[filter]]

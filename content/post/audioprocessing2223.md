@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2022-10-12
+lastmod = 2022-10-20
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,19 +94,21 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **12 October, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **20 October, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 12/10/22{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 12/10/22{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0info-2022-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0-2022-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-1-2022-IT.pdf" %}}Lez 1 - Acustica 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-2-2022-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-2-2022-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-3-2022-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
+  * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSek8dE2ds7XrWmN6qMaGmSjo9OkCBwXlxnM3doDFq9eNp3AbA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
 * Telegram
