@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2022-10-28
+lastmod = 2022-11-03
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **28 October, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **03 November, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * **[UPDATED]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 28/10/22{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 03/11/22{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0info-2022-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0-2022-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
@@ -106,13 +106,15 @@ Material last updated on **28 October, 2022**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-2-2022-IT.pdf" %}}Lez 2 - Acustica 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-3-2022-IT.pdf" %}}Lez 3 - Acustica 3{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-4-2022-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-5-2022-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-5-2022-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-6-2022-IT.pdf" %}}Lez 6 - Acustica 6{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSek8dE2ds7XrWmN6qMaGmSjo9OkCBwXlxnM3doDFq9eNp3AbA/viewform?usp=sf_link)
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSdaJjhUGruWH9PPWtkv1XwoeYG7Oz1Py2nW6Vl1PSLLmM4sNQ/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 4 - Acustica 4](https://docs.google.com/forms/d/e/1FAIpQLSfLxb2P1sg3Me9wcKmwM-XUdOtXUb3LEr0RMhak9j-fIdczlg/viewform?usp=sf_link)
+  * **[UPDATED]** [Autovalutazione 4 - Acustica 4](https://docs.google.com/forms/d/e/1FAIpQLSfLxb2P1sg3Me9wcKmwM-XUdOtXUb3LEr0RMhak9j-fIdczlg/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 5 - Acustica 5](https://docs.google.com/forms/d/e/1FAIpQLSdKLM5hVRVcsHyKfkLpBSMm9259SG09RpxvTz_NR7g2yoww7g/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
 * Telegram
