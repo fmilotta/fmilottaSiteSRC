@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2022-11-09
+lastmod = 2022-11-11
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **09 November, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **11 November, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 03/11/22{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato l' 11/11/22{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0info-2022-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0-2022-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
@@ -108,7 +108,8 @@ Material last updated on **09 November, 2022**. Teaching material is available i
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-4-2022-IT.pdf" %}}Lez 4 - Acustica 4{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-5-2022-IT.pdf" %}}Lez 5 - Acustica 5{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-6-2022-IT.pdf" %}}Lez 6 - Acustica 6{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-7-2022-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-7-2022-IT.pdf" %}}Lez 7 - Psicoacustica 1{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-8-2022-IT.pdf" %}}Lez 8 - Psicoacustica 2{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
@@ -116,7 +117,8 @@ Material last updated on **09 November, 2022**. Teaching material is available i
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSdaJjhUGruWH9PPWtkv1XwoeYG7Oz1Py2nW6Vl1PSLLmM4sNQ/viewform?usp=sf_link)
   * [Autovalutazione 4 - Acustica 4](https://docs.google.com/forms/d/e/1FAIpQLSfLxb2P1sg3Me9wcKmwM-XUdOtXUb3LEr0RMhak9j-fIdczlg/viewform?usp=sf_link)
   * [Autovalutazione 5 - Acustica 5](https://docs.google.com/forms/d/e/1FAIpQLSdKLM5hVRVcsHyKfkLpBSMm9259SG09RpxvTz_NR7g2yoww7g/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSfkbo9RgP5gRAvb-6Fc6mGMTOgBRC-v061e4ag8SRizvbRdMw/viewform?usp=sf_link)
+  * [Autovalutazione 6 - Acustica 6](https://docs.google.com/forms/d/e/1FAIpQLSfkbo9RgP5gRAvb-6Fc6mGMTOgBRC-v061e4ag8SRizvbRdMw/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 7 - Acustica 7](https://docs.google.com/forms/d/e/1FAIpQLSd7Ej2UwceIgvusIAsX_WsVe_uHVFQ1TSCigMRkQIVIfrsSAA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
 * Telegram
