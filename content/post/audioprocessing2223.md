@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2022-11-25
+lastmod = 2022-11-30
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,14 +94,14 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **25 November, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **30 November, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 25/11/22{{% /staticref %}}
 * Dispense e appunti raccolti dagli studenti
-  * **[NEW]** {{% staticref "teaching/audioprocessing21/Projects/AppuntiCiceroS_Progetto10_202122_AudioProcessing.zip" %}}Appunti di Cicero S. (2MB){{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/computermusic/Projects/ComputerMusic-Project-05mask-2018-IT.pdf" %}}Mascheramento - Progetto05-2018{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing21/Projects/AppuntiCiceroS_Progetto10_202122_AudioProcessing.zip" %}}Appunti di Cicero S. (2MB){{% /staticref %}}
+  * {{% staticref "teaching/computermusic/Projects/ComputerMusic-Project-05mask-2018-IT.pdf" %}}Mascheramento - Progetto05-2018{{% /staticref %}}
 * Slide
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0info-2022-IT.pdf" %}}Informazioni utili sul corso{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-0-2022-IT.pdf" %}}Lez 0 - Breve storia fino ad oggi{{% /staticref %}}
@@ -116,7 +116,8 @@ Material last updated on **25 November, 2022**. Teaching material is available i
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-9-2022-IT.pdf" %}}Lez 9 - Psicoacustica 3{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-10-2022-IT.pdf" %}}Lez 10 - Digitalizzazione 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-11-2022-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-12-2022-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-12-2022-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-13-2022-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
@@ -129,7 +130,8 @@ Material last updated on **25 November, 2022**. Teaching material is available i
   * [Autovalutazione 8 - Psicoacustica 2](https://docs.google.com/forms/d/e/1FAIpQLSeLnNHcD_czIYB1TtTdQRCB33zK0u3kTGF6aAr73HSs8vJ1iQ/viewform?usp=sf_link)
   * [Autovalutazione 9 - Psicoacustica 3](https://docs.google.com/forms/d/e/1FAIpQLSckDThtmBg1vikN2ssVoKLs9aerzH8zlHRQnLvlkHpa2xp15g/viewform?usp=sf_link)
   * [Autovalutazione 10 - Digitalizzazione 1](https://docs.google.com/forms/d/e/1FAIpQLSetxIPmYE-IiQe1q8vAItOhwqZwVN0tSGUKOYM94mwgZr4Zxw/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLSdLspKVcx_Tf2elnxSIqdEcARYCJVKedKuORQUupsY-iy2QHw/viewform?usp=sf_link)
+  * [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLSdLspKVcx_Tf2elnxSIqdEcARYCJVKedKuORQUupsY-iy2QHw/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 12 - Digitalizzazione 3](https://docs.google.com/forms/d/e/1FAIpQLSfyZctrArHpBNQszrgaOlYkKqfRDqzaXzeuZP7VNJ2_bC63Fg/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
 * Telegram
