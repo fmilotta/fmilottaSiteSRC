@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2022-12-16
+lastmod = 2022-12-19
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,11 +94,11 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **16 December, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **19 December, 2022**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
-  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 25/11/22{{% /staticref %}}
+  * **[UPDATED]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Agenda-2022-IT.pdf" %}}Diario aggiornato il 19/12/22{{% /staticref %}}
 * Dispense e appunti raccolti dagli studenti
   * {{% staticref "teaching/audioprocessing21/Projects/AppuntiCiceroS_Progetto10_202122_AudioProcessing.zip" %}}Appunti di Cicero S. (2MB){{% /staticref %}}
   * {{% staticref "teaching/computermusic/Projects/ComputerMusic-Project-05mask-2018-IT.pdf" %}}Mascheramento - Progetto05-2018{{% /staticref %}}
@@ -118,7 +118,8 @@ Material last updated on **16 December, 2022**. Teaching material is available i
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-11-2022-IT.pdf" %}}Lez 11 - Digitalizzazione 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-12-2022-IT.pdf" %}}Lez 12 - Digitalizzazione 3{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-13-2022-IT.pdf" %}}Lez 13 - Digitalizzazione 4{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-14-2022-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-14-2022-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-15-2022-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
@@ -133,7 +134,8 @@ Material last updated on **16 December, 2022**. Teaching material is available i
   * [Autovalutazione 10 - Digitalizzazione 1](https://docs.google.com/forms/d/e/1FAIpQLSetxIPmYE-IiQe1q8vAItOhwqZwVN0tSGUKOYM94mwgZr4Zxw/viewform?usp=sf_link)
   * [Autovalutazione 11 - Digitalizzazione 2](https://docs.google.com/forms/d/e/1FAIpQLSdLspKVcx_Tf2elnxSIqdEcARYCJVKedKuORQUupsY-iy2QHw/viewform?usp=sf_link)
   * [Autovalutazione 12 - Digitalizzazione 3](https://docs.google.com/forms/d/e/1FAIpQLSfyZctrArHpBNQszrgaOlYkKqfRDqzaXzeuZP7VNJ2_bC63Fg/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLSeQLIrldAh6DIE1TVgEhLL0ouAKF_7m7nxzTydFE0--6AMA0w/viewform?usp=sf_link)
+  * [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLSeQLIrldAh6DIE1TVgEhLL0ouAKF_7m7nxzTydFE0--6AMA0w/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLSfr3ShxM2wr4dUYFs21E1gJnCQyYBHfq5iTjy4uJ8l8TeHmSA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
 * Telegram
