@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2023-01-13
+lastmod = 2023-01-15
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -121,7 +121,7 @@ Material last updated on **13 January, 2023**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-14-2022-IT.pdf" %}}Lez 14 - Compressione 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-15-2022-IT.pdf" %}}Lez 15 - Compressione 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-16-2022-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-17-2022-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-17-2022-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
@@ -139,7 +139,8 @@ Material last updated on **13 January, 2023**. Teaching material is available in
   * [Autovalutazione 13 - Digitalizzazione 4](https://docs.google.com/forms/d/e/1FAIpQLSeQLIrldAh6DIE1TVgEhLL0ouAKF_7m7nxzTydFE0--6AMA0w/viewform?usp=sf_link)
   * [Autovalutazione 14 - Compressione 1](https://docs.google.com/forms/d/e/1FAIpQLSfr3ShxM2wr4dUYFs21E1gJnCQyYBHfq5iTjy4uJ8l8TeHmSA/viewform?usp=sf_link)
   * [Autovalutazione 15 - Compressione 2](https://docs.google.com/forms/d/e/1FAIpQLSd3epVLw6EAe7JRwp0kxwEClfb1kST8je3lSnbfOPKm4tSKOg/viewform?usp=sf_link)
-  * **[NEW]** [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSeaB78uFrl9uVKG9rdB0gHr9lK1GO8EpqiKgyNfGzyXKgBycQ/viewform?usp=sf_link)
+  * [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSeaB78uFrl9uVKG9rdB0gHr9lK1GO8EpqiKgyNfGzyXKgBycQ/viewform?usp=sf_link)
+  * **[NEW]** [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLScdMAK6NC8rwqiEkIBwQ-51F-og-1gx8N3uvR6QEQCCsWVMVA/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
 * Telegram
