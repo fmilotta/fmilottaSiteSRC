@@ -124,7 +124,7 @@ Material last updated on **20 January, 2023**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-17-2022-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-18-2022-IT.pdf" %}}Lez 18 - Approfondimento Pratico{{% /staticref %}}
 * Esami
-  * **[NEW]** {{% staticref "teaching/audioprocessing21/AudioProcessing-Exercises-2022-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
+  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Exercises-2022-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
   * **[NEW]** [Questionario Pre-Ripasso ed Esercitazione (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSftl9Ss9S-mGnjUE_2wt83UraaW8MWStlOl1JKa0n7aD3VdnQ/viewform?usp=sf_link)
