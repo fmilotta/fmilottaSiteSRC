@@ -1,6 +1,6 @@
 +++
 date = 2022-10-04
-lastmod = 2023-01-20
+lastmod = 2023-01-23
 draft = false
 tags = ["UNICT", "Triennale", "2022-23"]
 title = "Audio Processing 22\\23"
@@ -94,7 +94,7 @@ The available Teaching Material may contain errors. It **does not** substitute a
 {{% /alert %}}
 
 {{% alert note %}}
-Material last updated on **20 January, 2023**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
+Material last updated on **23 January, 2023**. Teaching material is available in English, under request ( some material is already available {{% staticref "teaching/computermusic19/ComputerMusic-EnglishMat-2019-EN.pdf" %}}here{{% /staticref %}}).
 {{% /alert %}}
 
 * Diario delle lezioni
@@ -123,11 +123,15 @@ Material last updated on **20 January, 2023**. Teaching material is available in
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-16-2022-IT.pdf" %}}Lez 16 - Formati 1{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-17-2022-IT.pdf" %}}Lez 17 - Formati 2{{% /staticref %}}
   * {{% staticref "teaching/audioprocessing22/AudioProcessing-Slide-18-2022-IT.pdf" %}}Lez 18 - Approfondimento Pratico{{% /staticref %}}
+* Seminari
+  * {{% staticref "teaching/audioprocessing22/seminars/netdemic.pdf" %}}Sem 1 - netdemic (M. Gibilterra){{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/seminars/eras.pdf" %}}Sem 2 - ERAS (G. Condorelli){{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/seminars/visualSonar.pdf" %}}Sem 3 - Visual Sonar (A. Mezzina){{% /staticref %}}
 * Esami
-  * **[NEW]** {{% staticref "teaching/audioprocessing22/AudioProcessing-Exercises-2022-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
+  * {{% staticref "teaching/audioprocessing22/AudioProcessing-Exercises-2022-IT.pdf" %}}Esempi di Esercizi pratici e domande bonus{{% /staticref %}}
 * Questionari e Autovalutazioni
   * [Questionario Preliminare (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSeuwtYj2I2YYwVVXz7iwpTfL5buZ3CCUgSphIEe7ywttD8e0g/viewform?usp=sf_link)
-  * **[NEW]** [Questionario Pre-Ripasso ed Esercitazione (Aperto)](https://docs.google.com/forms/d/e/1FAIpQLSftl9Ss9S-mGnjUE_2wt83UraaW8MWStlOl1JKa0n7aD3VdnQ/viewform?usp=sf_link)
+  * [Questionario Pre-Ripasso ed Esercitazione (Chiuso)](https://docs.google.com/forms/d/e/1FAIpQLSftl9Ss9S-mGnjUE_2wt83UraaW8MWStlOl1JKa0n7aD3VdnQ/viewform?usp=sf_link)
   * [Autovalutazione 1 - Acustica 1](https://docs.google.com/forms/d/e/1FAIpQLSfPBtPes-h6QM6fN0VIea3y64Ru5KZU3tXIJqe_tSEtcWINaQ/viewform?usp=sf_link)
   * [Autovalutazione 2 - Acustica 2](https://docs.google.com/forms/d/e/1FAIpQLSek8dE2ds7XrWmN6qMaGmSjo9OkCBwXlxnM3doDFq9eNp3AbA/viewform?usp=sf_link)
   * [Autovalutazione 3 - Acustica 3](https://docs.google.com/forms/d/e/1FAIpQLSdaJjhUGruWH9PPWtkv1XwoeYG7Oz1Py2nW6Vl1PSLLmM4sNQ/viewform?usp=sf_link)
@@ -146,7 +150,7 @@ Material last updated on **20 January, 2023**. Teaching material is available in
   * [Autovalutazione 16 - Formati 1](https://docs.google.com/forms/d/e/1FAIpQLSeaB78uFrl9uVKG9rdB0gHr9lK1GO8EpqiKgyNfGzyXKgBycQ/viewform?usp=sf_link)
   * [Autovalutazione 17 - Formati 2](https://docs.google.com/forms/d/e/1FAIpQLScdMAK6NC8rwqiEkIBwQ-51F-og-1gx8N3uvR6QEQCCsWVMVA/viewform?usp=sf_link)
   * [Autovalutazione 18 - Approfondimento Pratico](https://docs.google.com/forms/d/e/1FAIpQLSf_lHS_zm7a3pVK8C6QmdyERgxWyAXTJdstETwPv8vXQGcWvQ/viewform?usp=sf_link)
-  * **[NEW]** [Domande Bonus sui Seminari (coming soon)]()
+  * [Domande Bonus sui Seminari](https://docs.google.com/forms/d/e/1FAIpQLSdspfW18eNSFVJdQROOSztgBTafs6-FWV-eX5Swqypdou_nHw/viewform?usp=sf_link)
 * Software visti a lezione
   * [Audacity (v3.2)](https://www.audacityteam.org/)
   * [FFmpeg](https://www.ffmpeg.org/)
